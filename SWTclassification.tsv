@@ -1,0 +1,1775 @@
+ID	DOCULECT	CONCEPT	IPA	COGID	COGNACY	PSWT	SEGMENTS	ALIGNMENT	NOTE
+1	tdd1	fire	faj²	1	0	vajA			
+2	tdd1	nose	laŋ⁶	2	0	ɗaŋA			
+3	tdd1	to go	kaː³	5	1	kwaːB			PSWT 'pass'
+4	tdd1	water	lam⁵	6	0	namC			
+5	tdd1	mouth	sop¹	7	1	sopD			PSWT 'lip'
+6	tdd1	tongue	lin⁵	9	0	linC			
+7	tdd1	bone	luk¹	10	0	ɗuːkD			
+8	tdd1	blood	lɤt⁵	11	0	lɯətD			
+9	tdd1	root	haːk⁵	12	0	raːkD			
+10	tdd1	to come	maː²	13	0	maːA			
+11	tdd1	breast	lom²	14	0	nomA			
+12	tdd1	rain	fon¹	15	0	fonA			
+13	tdd1	name	ʦɯ⁶	16	0	ɟɯːB			
+14	tdd1	head louse	haw¹	17	0	ʰrawA			
+15	tdd1	body louse	min²	18	0a	mlenA			
+16	tdd1	wing	pik¹	19	0	piːkD			
+17	tdd1	flesh/meat	lɤ⁵	21	0	nɯəC			
+18	tdd1	hand	mɯ²	23	0	mɯːA			
+19	tdd1	arm	xen¹	271	0	qɛːnA			
+20	tdd1	night	xam⁶	24	0	ɣɯːnA			
+21	tdd1	housefly	mɛŋ² mun²	26	2a				
+22	tdd1	ear	hu¹	27	0	ʰruːA			
+23	tdd1	neck	xo²	28	0	ɣɔːA			
+24	tdd1	far	kaj⁶	29	0	klajA			
+25	tdd1	to do/make	het³	30	0c				
+26	tdd1	house	hɤn²	32	0	rɯənA			
+27	tdd1	stone/rock	hin¹	33	0	ʰriːnA			
+28	tdd1	tooth	xew⁴	34	1a	qʰiəwC			PSWT 'canine tooth'
+29	tdd1	to speak/to say	paːk³	8	1	paːkD			PSWT 'mouth'
+30	tdd1	bitter	xom¹	39	0	kʰomA			
+31	tdd1	head hair	pʰom¹	40	0	pʰomA			
+32	tdd1	body hair	xon¹	41	0	qonA			
+33	tdd1	big	jaɯ³	43	0	ʰɲaɯB			
+34	tdd1	one	lɤŋ⁶	44	0	nɯŋB			
+35	tdd1	who?	pʰaɯ¹	45	0	pʰaɯA			
+36	tdd1	leg	xaː¹	48	0	qaːA			
+37	tdd1	foot	tin⁶	49	0	tiːnA			
+38	tdd1	horn	xaw¹	51	0	qʰawA			
+39	tdd1	yesterday	waː²	52	0a				
+40	tdd1	black	lam⁶	53	0	ɗamA			
+41	tdd1	navel	saːi¹ li⁶	55	1				
+42	tdd1	to stand	ʦan²	58	2				Mandarin 站 zhàn
+43	tdd1	back	laŋ¹	59	0	ʰlaŋA			
+44	tdd1	wind	lom²	60	0	lomA			
+45	tdd1	smoke	xɔn²	61	0	ɣwanA			
+46	tdd1	what?	saŋ¹	62	0a	saŋA			
+47	tdd1	which?	laɯ⁶	64	0	ɗaɯA			
+48	tdd1	child (kin term)	luk⁵	65	0	luːkD			
+49	tdd1	egg	xaj³	66	0	kʰrajB			
+50	tdd1	new	maɯ³	67	0	ʰmaɯB			
+51	tdd1	to give	haɯ⁴	68	0	haɯC			
+52	tdd1	to burn (intr.)	maj⁴	70	0	ʰmajB			
+53	tdd1	good	li⁶	71	0	ɗiːA			
+54	tdd1	not (general/stative situation)	ʔam³	72	0b	ɓawB			maw² > m̩² > ʔam²
+55	tdd1	to know	hu⁵	74	0	ruːC			
+56	tdd1	sand	saːi²	75	0a	zaːjA			
+57	tdd1	knee	xaw³	76	0	qawB			
+58	tdd1	to laugh	xo¹	77	0	qruəA			
+59	tdd1	to hear	ŋin²	78	0a	ŋinA			
+60	tdd1	to hear	jin²	78	0b	ŋinA			
+61	tdd1	soil	lin⁶	79	0	ɗinA			
+62	tdd1	leaf	maɯ⁶	80	0	ɓaɯA			
+63	tdd1	red	lɛŋ⁶	81	0				
+64	tdd1	liver	tap¹	82	0				
+65	tdd1	skin/hide	laŋ¹	83	0				
+66	tdd1	to suck	ʔut¹	85	0b				
+67	tdd1	heavy	lak¹	86	0				
+68	tdd1	ant	mot⁵	87	0				
+69	tdd1	to take	ʔaw⁶	88	0				
+70	tdd1	old (animate)	ke³	90	0				
+71	tdd1	to eat	kin⁶	91	0a				
+72	tdd1	old (inanimate)	kaw³	92	0				
+73	tdd1	thick	laː¹	93	0				
+74	tdd1	long (shape)	jaːu²	95	1				
+75	tdd1	wood/tree	maj⁵	96	0a				
+76	tdd1	to run	lɛn⁶	97	0a				
+77	tdd1	to fall	lom³	99	0				
+78	tdd1	eye	taː⁶	100	0				
+79	tdd1	tail	haːŋ¹	101	0				
+80	tdd1	ash	taw⁶	102	0				
+81	tdd1	dog	maː¹	103	0				
+82	tdd1	to weep/to cry	haj⁴	104	0				
+83	tdd1	to see	han¹	105	0a				
+84	tdd1	sweet	waːn¹	106	0				
+85	tdd1	rope	ʦək⁵	107	0				
+86	tdd1	bird	lok⁵	108	0				
+87	tdd1	salt	kɤ⁶	109	0				
+88	tdd1	small (size)	 lɔi⁵	110	0				
+89	tdd1	shadow	ŋaw²	115	0				
+90	tdd1	shade	hom⁶	116	0				
+91	tdd1	cold	laːu¹	118	0				
+92	tdd1	wide	kaːŋ⁴	120	0				
+93	tdd1	star	laːu⁶	121	0				
+94	tdd1	hard	kɛn³	122	0				
+95	tdd1	left	saːj⁵	123	0				
+96	tdd1	right	xaː¹	124	0				
+97	tdd1	to walk	pʰaːi⁴	126	0				
+98	tdd1	to swim	lɔi²	129	0				
+99	tdd1	belly (abdomen)	tɔŋ⁵	132	0				
+100	tdd1	intestine/guts	saj⁴	134	0				
+101	tdd1	shoulder	maː³	135	0				
+102	tdd1	to fear	ko⁶	137	2				
+103	tdd1	head	ho¹	138	0				
+104	tdd1	to breathe	haː⁶	139	0a				
+105	tdd1	to vomit	haːk⁵	141	0				
+106	tdd1	to spit (saliva)	thum³	143	0b				
+107	tdd1	to spit (something out of the mouth)	xaːi²	144	0				
+108	tdd1	to chew	kew⁵	145	0				
+109	tdd1	to boil	tom⁴	146	0				
+110	tdd1	to yawn	haw¹	147	0				
+111	tdd1	to sleep, to lie down	lɔn²	148	0				
+112	tdd1	to dream	fan¹	149	0				
+113	tdd1	to sit	laŋ⁶	150	0				
+114	tdd1	human being	kon²	151	0				
+115	tdd1	man	pu¹ ʦaːj²	152	0				
+116	tdd1	woman	jiŋ²	153	0a				
+117	tdd1	husband	pʰo¹	154	0				
+118	tdd1	wife	me²	155	0				
+119	tdd1	mother	me⁶	156	0				
+120	tdd1	father	po⁶	158	0				
+121	tdd1	to sew	ʔem³	161	1				
+122	tdd1	needle	xem¹	162	0				
+123	tdd1	to shoot	jɯŋ²	164	1a				
+124	tdd1	to steal	lak⁵	166	0				
+125	tdd1	kill	xaː⁴	167	0				
+126	tdd1	die	taːj⁶	169	0				
+127	tdd1	to split	pʰaː³	172	0				
+128	tdd1	to plant	puk¹	173	0a				
+129	tdd1	to plant	sɔm⁴	174	1				
+130	tdd1	to plant	pʰuk¹	173	0b				
+131	tdd1	to choose	lɤk⁵	175	0				
+132	tdd1	to swell	hɔŋ²	179	3				
+133	tdd1	to dig	xot⁵	181	2				
+134	tdd1	to buy	sɯ⁵	183	0				
+135	tdd1	to open/uncover	hui¹	185	2				
+136	tdd1	to fly	men⁶	186	1				
+137	tdd1	rat/rodent	lu¹	187	0				
+138	tdd1	grease/fat	man²	188	0				
+139	tdd1	snake	ŋu²	190	0a				
+140	tdd1	worm	lɔn¹	191	0				
+141	tdd1	mosquito	juŋ²	192	0				
+142	tdd1	spider	kaw⁶	193	0a				
+143	tdd1	fish	paː⁶	195	0				
+144	tdd1	rotten	law⁶	196	0				
+145	tdd1	branch	kiŋ³	197	0				
+146	tdd1	flower	mɔk³	198	0				
+147	tdd1	fruit	maːk³	199	0				
+148	tdd1	grass	jaː⁴	201	0				
+149	tdd1	to flow	laj¹	202	0				
+150	tdd1	sky	faː⁵	205	0				
+151	tdd1	moon	lɤn⁶	206	0b				
+152	tdd1	cloud	mɔk³	210	1				SWT 'fog'
+153	tdd1	fog	mɔk³	211	0				
+154	tdd1	warm	ʔun³	212	0				
+155	tdd1	dry	hɛŋ⁴	213	0				
+156	tdd1	wet	jam²	215	2				
+157	tdd1	to burn (transitive)	hɛw⁵	217	1				
+158	tdd1	white	xaːw¹	219	0				
+159	tdd1	yellow	lɤŋ¹	220	0				
+160	tdd1	green	xew¹	221	0				
+161	tdd1	short (in stature)	tam³	222	0				
+162	tha	short (in stature)	tiə³	224	1				
+163	tdd1	short (in length)	pɔt¹	227	3				
+164	tdd1	thin	maːŋ⁶	228	0				
+165	tdd1	narrow	ʔip¹	230	1a				
+166	tdd1	narrow	hip¹	230	1b				
+167	tdd1	ashamed/shy	ʔaːi⁶	231	0				
+168	tdd1	bad	ʦaː⁵	233	1				
+169	tdd1	true	te⁵	234	0				
+170	tdd1	day	wan²	236	0a				
+171	tdd1	year	pi⁶	237	0				
+172	tdd1	to ascend	xɯn⁴	238	0				
+173	tdd1	above	lǝ¹	239	0				
+174	tdd1	below	taɯ⁴	240	0				
+175	tdd1	this	laj⁵	241	2				
+176	tdd1	that	lan⁵	242	0				
+177	tdd1	near	kaɯ⁴	244	0				
+178	tdd1	if	tʰɯŋ¹ ʦɤj⁵	203	3				
+179	tdd1	to count	ʔaːn³	248	1				
+180	tdd1	two	sɔŋ¹	249	0				
+181	tdd1	three	saːm¹	250	0				
+182	tdd1	four	si³	251	0				
+183	tdd1	five	haː⁴	252	0				
+184	tdd1	six	hok³	253	0				
+185	tdd1	seven	ʦet³	254	0				
+186	tdd1	eight	pɛt³	255	0				
+187	tdd1	nine	kaw⁴	256	0				
+188	tdd1	ten	sip¹	257	0				
+189	tdd1	twenty/score	saw²	258	1				
+190	tdd1	hundred	paːk³	261	1				
+191	tdd1	thousand	heŋ¹	263	1				
+192	tdd2	fire	faj⁴	1	0	vajA			
+193	tdd2	nose	laŋ¹	2	0	ɗaŋA			
+194	tdd2	to go	kaː²	5	1	kwaːB			PSWT 'pass'
+195	tdd2	water	lam³	6	0	namC			
+196	tdd2	mouth	sop¹	7	1	sopD			PSWT 'lip'
+197	tdd2	tongue	lin³	9	0	linC			
+198	tdd2	bone	luk⁵	10	0	ɗuːkD			
+199	tdd2	blood	lɤt¹	11	0	lɯətD			
+200	tdd2	root	haːk¹	12	0	raːkD			
+201	tdd2	to come	maː⁴	13	0	maːA			
+202	tdd2	breast	lom⁴	14	0	nomA			
+203	tdd2	rain	fon⁵	15	0	fonA			
+204	tdd2	name	ʦɯ¹	16	0	ɟɯːB			
+205	tdd2	head louse	haw⁵	17	0	ʰrawA			
+206	tdd2	body louse	min⁴	18	0b	mlenA			
+207	tdd2	wing	pik²	19	0	piːkD			
+208	tdd2	flesh/meat	lɤ³	21	0	nɯəC			
+209	tdd2	hand	mɯ⁴	23	0	mɯːA			
+210	tdd2	arm	xɛn⁵	271	0	qɛːnA			
+211	tdd2	night	xɯn⁴	24	0	ɣɯːnA			
+212	tdd2	housefly	mɛŋ⁴ mun⁴	26	2a				
+213	tdd2	ear	hu⁵	27	0	ʰruːA			
+214	tdd2	neck	xo⁴	28	0	ɣɔːA			
+215	tdd2	far	kaj¹	29	0	klajA			
+216	tdd2	house	hɤn⁴	32	0	rɯənA			
+217	tdd2	stone/rock	hin⁵	33	0	ʰriːnA			
+218	tdd2	tooth	xew³	34	1a	qʰiəwC			PSWT 'canine tooth'
+219	tdd2	bitter	xom⁵	39	0	kʰomA			
+220	tdd2	head hair	xon⁵	41	1				same word as 'body hair'
+221	tdd2	body hair	xon⁵	41	0	qonA			
+222	tdd2	big	jaɯ²	43	0	ʰɲaɯB			
+223	tdd2	one	lɤŋ¹	44	0	nɯŋB			
+224	tdd2	who?	pʰaɯ⁵	45	0	pʰaɯA			
+225	tdd2	leg	xaː⁵	48	0	qaːA			
+226	tdd2	foot	tin¹	49	0	tiːnA			
+227	tdd2	horn	xaw⁵	51	0	qʰawA			
+228	tdd2	yesterday	waː⁴	52	0a				
+229	tdd2	black	lam¹	53	0	ɗamA			
+230	tdd2	navel	saːj⁵ li¹	55	1				
+231	tdd2	back	laŋ⁵	59	0	ʰlaŋA			
+232	tdd2	wind	lom⁴	60	0	lomA			
+233	tdd2	smoke	xɔn⁴	61	0	ɣwanA			
+234	tdd2	which?	laɯ¹	64	0	ɗaɯA			
+235	tdd2	child (kin term)	luk³	65	0	luːkD			
+236	tdd2	egg	xaj²	66	0	kʰrajB			
+237	tdd2	new	maɯ²	67	0	ʰmaɯB			
+238	tdd2	to give	haɯ³	68	0	haɯC			
+239	tdd2	to burn (intr.)	maj³	70	0	ʰmajB			
+240	tdd2	good	li¹	71	0	ɗiːA			
+241	tdd2	not (general/stative situation)	ʔam²	72	0b	ɓawB			maw² > m̩² > ʔam²
+242	tdd2	to know	hu³	74	0	ruːC			
+243	tdd2	sand	saj⁴	75	0a	zaːjA			
+244	tdd2	knee	xaw²	76	0	qawB			
+245	tdd2	to laugh	xo⁵	77	0	qruəA			
+246	tdd2	to hear	jin⁴	78	0b	ŋinA			
+247	tdd2	soil	lin¹	79	0	ɗinA			
+248	tdd2	leaf	maɯ¹	80	0	ɓaɯA			
+249	tdd2	red	lɛŋ¹	81	0				
+250	tdd2	liver	tap⁵	82	0				
+251	tdd2	skin/hide	laŋ⁵	83	0				
+252	tdd2	heavy	lak⁵	86	0				
+253	tdd2	ant	mot³	87	0				
+254	tdd2	to take	ʔaw¹	88	0				
+255	tdd2	old (animate)	ke²	90	0				
+256	tdd2	to eat	kin¹	91	0a				
+257	tdd2	old (inanimate)	kaw²	92	0				
+258	tdd2	thick	laː⁵	93	0				
+259	tdd2	long (shape)	jaːw⁴	95	1				
+260	tdd2	wood/tree	maj³	96	0a				
+261	tdd2	to run	lɛn¹	97	0a				
+262	tdd2	to fall	tok¹	99	0				
+263	tdd2	eye	taː¹	100	0				
+264	tdd2	tail	haːŋ⁵	101	0				
+265	tdd2	ash	taw¹	102	0				
+266	tdd2	dog	maː⁵	103	0				
+267	tdd2	to weep/to cry	haj³	104	0				
+268	tdd2	to see	han⁵	105	0a				
+269	tdd2	sweet	waːn⁵	106	0				
+270	tdd2	rope	ʦɤk¹	107	0				
+271	tdd2	bird	lok³	108	0				
+272	tdd2	salt	kɤ¹	109	0				
+273	tdd2	small (size)	lot²	113	1				
+274	tdd2	shadow	ŋaw⁴	115	0				
+275	tdd2	shade	hom¹	116	0				
+276	tdd2	cold	laːw⁵	118	0				
+277	tdd2	wide	kaːŋ³	120	0				
+278	tdd2	star	laːw¹	121	0				
+279	tdd2	in	laɯ⁴	264	0				
+280	tdd2	hard	xɛŋ⁵	122	0				
+281	tdd2	left	saj³	123	0				
+282	tdd2	right	xaː⁵	124	0				
+283	tdd2	to walk	jaːŋ¹	125	1				
+284	tdd2	belly (abdomen)	tɔŋ³	132	0				
+285	tdd2	intestine/guts	saj³	134	0				
+286	tdd2	shoulder	maː²	135	0				
+287	tdd2	head	ho⁵	138	0				
+288	tdd2	to vomit	haːk¹	141	0				
+289	tdd2	to boil	torn³	146	0				
+290	tdd2	to yawn	haːw⁵	147	0				
+291	tdd2	to sleep, to lie down	lɔn⁴	148	0				
+292	tdd2	to dream	fan⁵	149	0				
+293	tdd2	to sit	laŋ¹	150	0				
+294	tdd2	human being	kon⁴	151	0				
+295	tdd2	man	ʦaːj⁴	152	0				
+296	tdd2	woman	jiŋ⁴	153	0a				
+297	tdd2	husband	pʰo⁵	154	0				
+298	tdd2	wife	me⁴	155	0				
+299	tdd2	mother	me¹	156	0				
+300	tdd2	father	po¹	158	0				
+301	tdd2	to sew	jep³	160	0b				
+302	tdd2	needle	xem⁵	162	0				
+303	tdd2	to shoot	jɯŋ⁴	164	1a				
+304	tdd2	to steal	lak³	166	0				
+305	tdd2	kill	hɛm⁵	168	0				
+306	tdd2	die	taːj¹	169	0				
+307	tdd2	to split	pʰaː²	172	0				
+308	tdd2	to choose	Iɤk¹	175	0				
+309	tdd2	to swell	kaɯ¹	176	0				
+310	tdd2	to dig	xot⁵	181	2				
+311	tdd2	to buy	sɯ³	183	0				
+312	tdd2	to fly	min¹	186	0				
+313	tdd2	rat/rodent	lu⁵	187	0				
+314	tdd2	grease/fat	pi⁴	189	1				
+315	tdd2	grease/fat	man⁴	188	0				
+316	tdd2	snake	ŋu⁴	190	0a				
+317	tdd2	worm	lɔn⁵	191	0				
+318	tdd2	mosquito	juŋ⁴	192	0				
+319	tdd2	spider	moŋ³ kaw¹	193	0a				
+320	tdd2	fish	paː¹	195	0				
+321	tdd2	rotten	law¹	196	0				
+322	tdd2	branch	kiŋ²	197	0				
+323	tdd2	flower	mɔk²	198	0				
+324	tdd2	fruit	maːk²	199	0				
+325	tdd2	grass	jaː³	201	0				
+326	tdd2	to flow	laj⁵	202	0				
+327	tdd2	sky	faː³	205	0				
+328	tdd2	moon	lɤn¹ 	206	0b				
+329	tdd2	cloud	faː³	208	0				
+330	tdd2	fog	mɔk²	211	0				
+331	tdd2	warm	ʔun²	212	0				
+332	tdd2	to burn (transitive)	pʰaw⁵	216	0				
+333	tdd2	white	xaːw⁵	219	0				
+334	tdd2	yellow	lɤŋ⁵	220	0				
+335	tdd2	green	xew⁵	221	0				
+336	tdd2	short (in stature)	tam²	222	0				
+337	tdd2	thin	maːŋ¹	228	0				
+338	tdd2	narrow	ʔip⁵	230	1a				
+339	tdd2	bad	haːj³	232	0				
+340	tdd2	day	wan⁴	236	0a				
+341	tdd2	year	pi¹	237	0				
+342	tdd2	to ascend	xɯn³	238	0				
+343	tdd2	above	lɤ⁵	239	0				
+344	tdd2	below	taɯ³	240	0				
+345	tdd2	near	kaɯ³	244	0				
+346	tdd2	two	sɔŋ⁵	249	0				
+347	tdd2	three	saːm⁵	250	0				
+348	tdd2	four	si²	251	0				
+349	tdd2	five	haː³	252	0				
+350	tdd2	six	hok¹	253	0				
+351	tdd2	seven	ʦet¹	254	0				
+352	tdd2	eight	pɛt²	255	0				
+353	tdd2	nine	kaw³	256	0				
+354	tdd2	ten	sip⁵	257	0				
+355	tdd2	hundred	paːk²	261	1				
+356	tdd3	fire	faj⁴	1	0	vajA			
+357	tdd3	nose	laŋ¹	2	0	ɗaŋA			
+358	tdd3	to go	kaː²	5	1	kwaːB			PSWT 'pass'
+359	tdd3	water	nam³	6	0	namC			
+360	tdd3	mouth	sop⁵	7	1	sopD			PSWT 'lip'
+361	tdd3	tongue	lin³	9	0	linC			
+362	tdd3	bone	luk⁵	10	0	ɗuːkD			
+363	tdd3	blood	lɤt¹	11	0	lɯətD			
+364	tdd3	root	haːk¹	12	0	raːkD			
+365	tdd3	to come	maː⁴	13	0	maːA			
+366	tdd3	breast	nom⁴	14	0	nomA			
+367	tdd3	rain	fon⁵	15	0	fonA			
+368	tdd3	name	ʦɯ¹	16	0	ɟɯːB			
+369	tdd3	head louse	haw⁵	17	0	ʰrawA			
+370	tdd3	body louse	min⁴	18	0b	mlenA			
+371	tdd3	wing	pik²	19	0	piːkD			
+372	tdd3	flesh/meat	nɤ³	21	0	nɯəC			
+373	tdd3	hand	mɯ⁴	23	0	mɯːA			
+374	tdd3	arm	khɛn⁵	271	0	qɛːnA			
+375	tdd3	night	kʰɯn⁴	24	0	ɣɯːnA			
+376	tdd3	housefly	mɛŋ⁴ mun⁴	26	2a				
+377	tdd3	ear	hu⁵	27	0	ʰruːA			
+378	tdd3	neck	kʰo⁴	28	0	ɣɔːA			
+379	tdd3	far	kaj¹	29	0	klajA			
+380	tdd3	house	hɤn⁴	32	0	rɯənA			
+381	tdd3	stone/rock	hin⁵	33	0	ʰriːnA			
+382	tdd3	tooth	kʰew³	34	1a	qʰiəwC			PSWT 'canine tooth'
+383	tdd3	bitter	kʰom⁵	39	0	kʰomA			
+384	tdd3	head hair	kʰon⁵	41	1				same word as 'body hair'
+385	tdd3	body hair	kʰon⁵	41	0	qonA			
+386	tdd3	big	jaɯ²	43	0	ʰɲaɯB			
+387	tdd3	one	nɯŋ¹	44	0	nɯŋB			
+388	tdd3	who?	faɯ⁵	45	0	pʰaɯA			
+389	tdd3	leg	kʰaː⁵	48	0	qaːA			
+390	tdd3	foot	tin¹	49	0	tiːnA			
+391	tdd3	horn	kʰaw⁵	51	0	qʰawA			
+392	tdd3	yesterday	waː⁴	52	0a				
+393	tdd3	black	lam¹	53	0	ɗamA			
+394	tdd3	navel	saːj⁵ li¹	55	1				
+395	tdd3	to stand	ʦuk⁵	57	1	ˀjɯːnA			
+396	tdd3	back	laŋ⁵	59	0	ʰlaŋA			
+397	tdd3	wind	lom⁴	60	0	lomA			
+398	tdd3	smoke	kɔn⁴	61	0	ɣwanA			
+399	tdd3	which?	laɯ¹	64	0	ɗaɯA			
+400	tdd3	child (kin term)	luk³	65	0	luːkD			
+401	tdd3	egg	kʰaj²	66	0	kʰrajB			
+402	tdd3	new	maɯ²	67	0	ʰmaɯB			
+403	tdd3	to give	haɯ³	68	0	haɯC			
+404	tdd3	to burn (intr.)	maj³	70	0	ʰmajB			
+405	tdd3	good	li¹	71	0	ɗiːA			
+406	tdd3	not (general/stative situation)	ʔam²	72	0b	ɓawB			maw² > m̩² > ʔam²
+407	tdd3	to know	hu³	74	0	ruːC			
+408	tdd3	sand	saj⁴	75	0a	zaːjA			
+409	tdd3	knee	kʰaw²	76	0	qawB			
+410	tdd3	to laugh	kʰo⁵	77	0	qruəA			
+411	tdd3	to hear	jin⁴	78	0b	ŋinA			
+412	tdd3	soil	lin¹	79	0	ɗinA			
+413	tdd3	leaf	maɯ¹	80	0	ɓaɯA			
+414	tdd3	red	lɛŋ¹	81	0				
+415	tdd3	liver	tap⁵	82	0				
+416	tdd3	skin/hide	naŋ⁵	83	0				
+417	tdd3	heavy	nak⁵	86	0				
+418	tdd3	ant	mot³	87	0				
+419	tdd3	to take	ʔaw¹	88	0				
+420	tdd3	old (animate)	ke²	90	0				
+421	tdd3	to eat	kin¹	91	0a				
+422	tdd3	old (inanimate)	kaw²	92	0				
+423	tdd3	thick	naː⁵	93	0				
+424	tdd3	long (shape)	jaːw⁴	95	1				
+425	tdd3	wood/tree	maj³	96	0a				
+426	tdd3	to run	lɛn¹	97	0a				
+427	tdd3	eye	taː¹	100	0				
+428	tdd3	tail	haːŋ⁵	101	0				
+429	tdd3	ash	taw¹	102	0				
+430	tdd3	dog	maː⁵	103	0				
+431	tdd3	to weep/to cry	haj³	104	0				
+432	tdd3	to see	han⁵	105	0a				
+433	tdd3	sweet	waːn⁵	106	0				
+434	tdd3	rope	ʦɤk⁵	107	0				
+435	tdd3	bird	nok³	108	0				
+436	tdd3	salt	kɤ¹	109	0				
+437	tdd3	small (size)	not²	113	1				
+438	tdd3	shade	hom¹	116	0				
+439	tdd3	shadow	ŋaw⁴	115	0				
+440	tdd3	cold	naːw⁵	118	0				
+441	tdd3	wide	kaːŋ³	120	0				
+442	tdd3	star	laːw¹	121	0				
+443	tdd3	in	naɯ⁴	264	0				
+444	tdd3	hard	kʰɛŋ⁵	122	0				
+445	tdd3	left	saːj³	123	0				
+446	tdd3	right	kʰaː⁵	124	0				
+447	tdd3	to walk	jaːŋ¹	125	1				
+448	tdd3	belly (abdomen)	tɔŋ³	132	0				
+449	tdd3	intestine/guts	saj³	134	0				
+450	tdd3	shoulder	maː²	135	0				
+451	tdd3	head	ho⁵	138	0				
+452	tdd3	to vomit	haːk¹	141	0				
+453	tdd3	to boil	tom³	146	0				
+454	tdd3	to yawn	haːw⁵	147	0				
+455	tdd3	to sleep, to lie down	nɔn⁴	148	0				
+456	tdd3	to dream	fan⁵	149	0				
+457	tdd3	to sit	naŋ¹	150	0				
+458	tdd3	human being	kon⁴	151	0				
+459	tdd3	man	ʦaːj⁴	152	0				
+460	tdd3	woman	jiŋ⁴	153	0a				
+461	tdd3	husband	fo⁵	154	0				
+462	tdd3	wife	me⁴	155	0				
+463	tdd3	mother	me¹	156	0				
+464	tdd3	father	ʔu³	159	2				
+465	tdd3	to sew	jep³	160	0b				
+466	tdd3	needle	khem⁵	162	0				
+467	tdd3	to shoot	jɯŋ⁴	164	1a				
+468	tdd3	to steal	lak³	166	0				
+469	tdd3	kill	hɛm⁵	168	0				
+470	tdd3	die	taːj¹	169	0				
+471	tdd3	to split	faː²	172	0				
+472	tdd3	to plant	fuk²	173	0b				
+473	tdd3	to choose	Iɤk¹	175	0				
+474	tdd3	to swell	kaɯ¹	176	0				
+475	tdd3	to dig	kʰot⁵	181	2				
+476	tdd3	to buy	sɯ³	183	0				
+477	tdd3	to fly	min¹	186	0				
+478	tdd3	rat/rodent	nu⁵	187	0				
+479	tdd3	grease/fat	pi⁴	189	1				
+480	tdd3	snake	ŋu⁴	190	0a				
+481	tdd3	worm	nɔn⁵	191	0				
+482	tdd3	mosquito	juŋ⁴	192	0				
+483	tdd3	spider	koŋ³ kaw¹	193	0a				
+484	tdd3	fish	paː¹	195	0				
+485	tdd3	rotten	naw¹	196	0				
+486	tdd3	branch	kin¹	197	0				
+487	tdd3	flower	mɔk²	198	0				
+488	tdd3	fruit	maːk²	199	0				
+489	tdd3	grass	jaː³	201	0				
+490	tdd3	to flow	laj⁵	202	0				
+491	tdd3	sky	faː³	205	0				
+492	tdd3	moon	Iɤn¹	206	0b				
+493	tdd3	fog	mɔk²	211	0				
+494	tdd3	warm	ʔun²	212	0				
+495	tdd3	to burn (transitive)	faw⁵	216	0				
+496	tdd3	white	kʰaːw⁵	219	0				
+497	tdd3	yellow	lɤŋ⁵	220	0				
+498	tdd3	green	kʰew⁵	221	0				
+499	tdd3	short (in stature)	tam²	222	0				
+500	tdd3	thin	maːŋ¹	228	0				
+501	tdd3	narrow	kɛp³	229	0				
+502	tdd3	bad	haːj³	232	0				
+503	tdd3	day	wan⁴	236	0a				
+504	tdd3	year	pi¹	237	0				
+505	tdd3	to ascend	kʰɯn³	238	0				
+506	tdd3	above	nɤ⁵	239	0				
+507	tdd3	below	taɯ³	240	0				
+508	tdd3	near	ʦam¹	243	1				
+509	tdd3	to count	nap³	272	2				
+510	tdd3	two	sɔŋ⁵	249	0				
+511	tdd3	three	saːm⁵	250	0				
+512	tdd3	four	si²	251	0				
+513	tdd3	five	haː³	252	0				
+514	tdd3	six	hok⁵	253	0				
+515	tdd3	seven	ʦet⁵	254	0				
+516	tdd3	eight	pɛt²	255	0				
+517	tdd3	nine	kaw³	256	0				
+518	tdd3	ten	sip⁵	257	0				
+519	tdd3	hundred	paːk²	261	1				
+520	tdd4	fire	faj⁴	1	0	vajA			
+521	tdd4	nose	laŋ¹	2	0	ɗaŋA			
+522	tdd4	to go	kaː²	5	1	kwaːB			PSWT 'pass'
+523	tdd4	water	nam³	6	0	namC			
+524	tdd4	mouth	sop⁵	7	1	sopD			PSWT 'lip'
+525	tdd4	tongue	lin³	9	0	linC			
+526	tdd4	bone	luk⁵	10	0	ɗuːkD			
+527	tdd4	blood	lɤt¹	11	0	lɯətD			
+528	tdd4	root	haːk¹	12	0	raːkD			
+529	tdd4	to come	maː⁴	13	0	maːA			
+530	tdd4	breast	nom⁴	14	0	nomA			
+531	tdd4	rain	fon⁵	15	0	fonA			
+532	tdd4	name	cɯ¹	16	0	ɟɯːB			
+533	tdd4	head louse	haw⁵	17	0	ʰrawA			
+534	tdd4	body louse	min⁴	18	0b	mlenA			
+535	tdd4	wing	pik²	19	0	piːkD			
+536	tdd4	flesh/meat	nɤ³	21	0	nɯəC			
+537	tdd4	hand	mɯ⁴	23	0	mɯːA			
+538	tdd4	arm	xɛn⁵	271	0	qɛːnA			
+539	tdd4	night	xɯn⁴ 	24	0	ɣɯːnA			
+540	tdd4	housefly	mɛŋ⁴ ŋun⁴	26	2b				
+541	tdd4	ear	hu⁵	27	0	ʰruːA			
+542	tdd4	neck	xo⁴	28	0	ɣɔːA			
+543	tdd4	far	kaj¹	29	0	klajA			
+544	tdd4	house	hɤn⁴	32	0	rɯənA			
+545	tdd4	stone/rock	hin⁵	33	0	ʰriːnA			
+546	tdd4	tooth	xew³	34	1a	qʰiəwC			PSWT 'canine tooth'
+547	tdd4	bitter	xom⁵	39	0	kʰomA			
+548	tdd4	head hair	fom⁵	40	0	pʰomA			
+549	tdd4	body hair	xon⁵	41	0	qonA			
+550	tdd4	big	jaɯ²	43	0	ʰɲaɯB			
+551	tdd4	one	lɤŋ¹	44	0	nɯŋB			
+552	tdd4	who?	faɯ⁵	45	0	pʰaɯA			
+553	tdd4	leg	xaː⁵	48	0	qaːA			
+554	tdd4	foot	tin¹	49	0	tiːnA			
+555	tdd4	horn	xaw⁵	51	0	qʰawA			
+556	tdd4	yesterday	vaː⁴	52	0a				
+557	tdd4	black	lam¹	53	0	ɗamA			
+558	tdd4	navel	saːj⁵ vɯ¹	54	0b				
+559	tdd4	back	laŋ⁵	59	0	ʰlaŋA			
+560	tdd4	wind	lom⁴	60	0	lomA			
+561	tdd4	smoke	kan⁴	61	0	ɣwanA			
+562	tdd4	which?	laɯ¹	64	0	ɗaɯA			
+563	tdd4	child (kin term)	luk³	65	0	luːkD			
+564	tdd4	egg	xaj²	66	0	kʰrajB			
+565	tdd4	new	maɯ²	67	0	ʰmaɯB			
+566	tdd4	to give	haɯ³	68	0	haɯC			
+567	tdd4	to burn (intr.)	maj³	70	0	ʰmajB			
+568	tdd4	good	li¹	71	0	ɗiːA			
+569	tdd4	not (general/stative situation)	maw²	72	0a	ɓawB			
+570	tdd4	to know	hu³	74	0	ruːC			
+571	tdd4	sand	caj⁴	75	0b	zaːjA			
+572	tdd4	knee	xaw²	76	0	qawB			
+573	tdd4	to laugh	xo⁵	77	0	qruəA			
+574	tdd4	to hear	jin⁴	78	0b	ŋinA			
+575	tdd4	soil	lin¹	79	0	ɗinA			
+576	tdd4	leaf	vaɯ¹	80	0	ɓaɯA			
+577	tdd4	red	lɛŋ¹	81	0				
+578	tdd4	liver	tap⁵	82	0				
+579	tdd4	skin/hide	naŋ⁵	83	0				
+580	tdd4	heavy	nak⁵	86	0				
+581	tdd4	ant	mot³	87	0				
+582	tdd4	to take	ʔaw¹	88	0				
+583	tdd4	old (animate)	ke²	90	0				
+584	tdd4	to eat	cin¹	91	0b				
+585	tdd4	old (inanimate)	kaw²	92	0				
+586	tdd4	thick	naː⁵	93	0				
+587	tdd4	long (shape)	jaːw⁴	95	1				
+588	tdd4	wood/tree	maj³	96	0a				
+589	tdd4	to run	lɛn¹	97	0a				
+590	tdd4	to fall	tok⁵	99	0				
+591	tdd4	eye	taː¹	100	0				
+592	tdd4	tail	haːŋ⁵	101	0				
+593	tdd4	ash	tʰaw¹	102	0				
+594	tdd4	dog	maː⁵	103	0				
+595	tdd4	to weep/to cry	haj³	104	0				
+596	tdd4	to see	han⁵	105	0a				
+597	tdd4	sweet	vaːn⁵	106	0				
+598	tdd4	rope	cɤk¹	107	0				
+599	tdd4	bird	nok³	108	0				
+600	tdd4	salt	kɤ¹	109	0				
+601	tdd4	small (size)	not²	113	1				
+602	tdd4	shade	hom¹	116	0				
+603	tdd4	cold	naːw⁵	118	0				
+604	tdd4	wide	kaːŋ³	120	0				
+605	tdd4	star	laːw¹	121	0				
+606	tdd4	in	naɯ⁴	264	0				
+607	tdd4	hard	xɛŋ⁵	122	0				
+608	tdd4	left	saːj³	123	0				
+609	tdd4	right	kaː⁵	124	0				
+610	tdd4	belly (abdomen)	tɔŋ³	132	0				
+611	tdd4	intestine/guts	saj³	134	0				
+612	tdd4	shoulder	vaː²	135	0				
+613	tdd4	head	ho⁵	138	0				
+614	tdd4	to vomit	haːk¹	141	0				
+615	tdd4	to chew	kew³	145	0				
+616	tdd4	to boil	tom³	146	0				
+617	tdd4	to yawn	haːw⁵	147	0				
+618	tdd4	to sleep, to lie down	nɔn⁴	148	0				
+619	tdd4	to dream	fan⁵	149	0				
+620	tdd4	to sit	naŋ¹	150	0				
+621	tdd4	human being	kon⁴	151	0				
+622	tdd4	man	caːj⁴	152	0				
+623	tdd4	woman	jiŋ⁴	153	0a				
+624	tdd4	husband	fo⁵	154	0				
+625	tdd4	wife	me⁴	155	0				
+626	tdd4	mother	me¹	156	0				
+627	tdd4	father	po¹	158	0				
+628	tdd4	to sew	jep³	160	0b				
+629	tdd4	needle	xem⁵	162	0				
+630	tdd4	to shoot	jɯŋ⁴	164	1a				
+631	tdd4	to steal	lak³	166	0				
+632	tdd4	kill	hɛm⁵	168	0				
+633	tdd4	die	taːj¹	169	0				
+634	tdd4	to split	faː²	172	0				
+635	tdd4	to choose	Iɤk¹	175	0				
+636	tdd4	to dig	xut⁵	181	1				
+637	tdd4	to buy	sɯ³	183	0				
+638	tdd4	to fly	vin¹	186	0				
+639	tdd4	rat/rodent	nu⁵	187	0				
+640	tdd4	grease/fat	pi⁴	189	1				
+641	tdd4	snake	ju⁴	190	0b				
+642	tdd4	worm	nɔn⁵	191	0				
+643	tdd4	mosquito	juŋ⁴	192	0				
+644	tdd4	spider	moŋ³ kaw¹	193	0a				
+645	tdd4	fish	paː¹	195	0				
+646	tdd4	rotten	naw¹	196	0				
+647	tdd4	branch	kiŋ²	197	0				
+648	tdd4	flower	lɔk²	198	0				
+649	tdd4	fruit	maːk²	199	0				
+650	tdd4	grass	jaː³	201	0				
+651	tdd4	to flow	laj⁵	202	0				
+652	tdd4	sky	faː³	205	0				
+653	tdd4	moon	lɤn¹	206	0a				
+654	tdd4	cloud	faː³	208	0				
+655	tdd4	fog	mɔk²	211	0				
+656	tdd4	warm	ʔun²	212	0				
+657	tdd4	to burn (transitive)	faw⁵	216	0				
+658	tdd4	white	xaːw⁵	219	0				
+659	tdd4	yellow	lɤŋ⁵	220	0				
+660	tdd4	green	xew⁵	221	0				
+661	tdd4	short (in stature)	tam²	222	0				
+662	tdd4	thin	vaːŋ¹,	228	0				
+663	tdd4	narrow	xep⁵	229	0				
+664	tdd4	day	van⁴	236	0a				
+665	tdd4	year	pi¹	237	0				
+666	tdd4	to ascend	xɯn³	238	0				
+667	tdd4	above	nɤ⁵	239	0				
+668	tdd4	below	taɯ³	240	0				
+669	tdd4	near	kaɯ³	244	0				
+670	tdd4	to count	nap³	272	2				
+671	tdd4	two	sɔŋ⁵	249	0				
+672	tdd4	three	saːm⁵	250	0				
+673	tdd4	four	si²	251	0				
+674	tdd4	five	haː³	252	0				
+675	tdd4	six	hok⁵	253	0				
+676	tdd4	seven	cet⁵	254	0				
+677	tdd4	eight	pɛt²	255	0				
+678	tdd4	nine	kaw³	256	0				
+679	tdd4	ten	sip⁵	257	0				
+680	tdd4	hundred	hɔj³	260	0				
+681	shn	fire	pʰaj⁴	1	0	vajA			
+682	shn	nose	laŋ¹	2	0	ɗaŋA			
+683	shn	to go	kwaː²	5	1	kwaːB			PSWT 'pass'
+684	shn	water	nam⁵	6	0	namC			
+685	shn	mouth	sʰop⁴	7	1	sopD			PSWT 'lip'
+686	shn	tongue	lin⁵	9	0	linC			
+687	shn	bone	lup²	10	0a	ɗuːkD			
+688	shn	blood	lɤt³	11	0	lɯətD			
+689	shn	root	haːk³	12	0	raːkD			
+690	shn	to come	maː⁴	13	0	maːA			
+691	shn	breast	nom⁴	14	0	nomA			
+692	shn	rain	pʰon¹	15	0	fonA			
+693	shn	name	ʦɯ³	16	0	ɟɯːB			
+694	shn	head louse	haw¹	17	0	ʰrawA			
+695	shn	body louse	men⁴	18	0a	mlenA			
+696	shn	wing	pik²	19	0	piːkD			
+697	shn	flesh/meat	nɤ⁵	21	0	nɯəC			
+698	shn	hand	mɯ⁴	23	0	mɯːA			
+699	shn	arm	kʰɛn¹	271	0	qɛːnA			
+700	shn	night	kʰɯn⁴	24	0	ɣɯːnA			
+701	shn	ear	hu¹	27	0	ʰruːA			
+702	shn	neck	kʰɔ⁴	28	0	ɣɔːA			
+703	shn	far	kaj¹	29	0	klajA			
+704	shn	to do/make	het⁴	30	0c				
+705	shn	house	hɤn⁴	32	0	rɯənA			
+706	shn	stone/rock	hin¹	33	0	ʰriːnA			
+707	shn	tooth	kʰew³	34	1a	qʰiəwC			PSWT 'canine tooth'
+708	shn	to speak/to say	paːk²	8	1	paːkD			PSWT 'mouth'
+709	shn	bitter	kʰom¹	39	0	kʰomA			
+710	shn	head hair	ka² sʰɔ²	42	2				
+711	shn	body hair	kʰon¹	41	0	qonA			
+712	shn	big	jaɯ²	43	0	ʰɲaɯB			
+713	shn	one	nɯŋ³	44	0	nɯŋB			
+714	shn	who?	na¹ laɯ	47	2				
+715	shn	leg	kʰaː¹	48	0	qaːA			
+716	shn	foot	tin¹	49	0	tiːnA			
+717	shn	horn	kʰaw¹	51	0	qʰawA			
+718	shn	yesterday	wan⁴ waː⁴	52	0a				
+719	shn	black	lam¹	53	0	ɗamA			
+720	shn	navel	sʰaːj¹ li¹	55	1				
+721	shn	to stand	ʦuk⁴	57	1				
+722	shn	back	laŋ¹	59	0	ʰlaŋA			
+723	shn	wind	lom⁴	60	0	lomA			
+724	shn	smoke	kwan⁴	61	0	ɣwanA			
+725	shn	what?	sʰaŋ¹	62	0a	saŋA			
+726	shn	which?	laɯ	64	0	ɗaɯA			
+727	shn	child (kin term)	luk³	65	0	luːkD			
+728	shn	egg	kʰaj²	66	0	kʰrajB			
+729	shn	new	maɯ²	67	0	ʰmaɯB			
+730	shn	to give	pan¹	69	1	panA			PSWT 'to share'
+731	shn	to burn (intr.)	maj³	70	0	ʰmajB			
+732	shn	good	li¹	71	0	ɗiːA			
+733	shn	not (general/stative situation)	ʔam²	72	0b	ɓawB			maw² > m̩² > ʔam²
+734	shn	to know	hu⁵	74	0	ruːC			
+735	shn	sand	sʰaːj⁴	75	0a	zaːjA			
+736	shn	knee	kʰaw²	76	0	qawB			
+737	shn	to laugh	kʰo¹	77	0	qruəA			
+738	shn	to hear	ŋin⁴	78	0a	ŋinA			
+739	shn	leaf	maɯ¹	80	0	ɓaɯA			
+740	shn	red	lɛŋ¹	81	0				
+741	shn	liver	tap⁴	82	0				
+742	shn	skin/hide	naŋ¹	83	0				
+743	shn	to suck	lut²	85	0a				
+744	shn	heavy	nak⁴	86	0				
+745	shn	ant	mot⁵	87	0				
+746	shn	to take	ʔaw¹	88	0				
+747	shn	old (animate)	tʰaw³	89	1				PSWT 'senior'
+748	shn	to eat	kin¹	91	0a				
+749	shn	old (inanimate)	kaw²	92	0				
+750	shn	thick	naː¹	93	0				
+751	shn	long (shape)	jaːw⁴	95	1				
+752	shn	wood/tree	maj⁵	96	0a				
+753	shn	to run	lɛn³	97	0a				
+754	shn	to fall	tok⁴	99	0				
+755	shn	eye	taː¹	100	0				
+756	shn	tail	haːŋ¹	101	0				
+757	shn	dog	maː¹	103	0				
+758	shn	to weep/to cry	haj³	104	0				
+759	shn	to see	han¹	105	0a				
+760	shn	sweet	waːn¹	106	0				
+761	shn	rope	ʦɤk³	107	0				
+762	shn	bird	nok⁵	108	0				
+763	shn	salt	kɤ¹	109	0				
+764	shn	small (size)	tiŋ⁵	111	2				
+765	shn	shade	hom³	116	0				
+766	shn	shadow	ŋaw⁴	115	0				
+767	shn	cold	kat⁴	119	2				
+768	shn	wide	kwaːŋ³	120	0				
+769	shn	star	laːw¹	121	0				
+770	shn	in	naɯ⁴	264	0				
+771	shn	hard	kʰɛŋ¹	122	0				
+772	shn	left	sʰaːj⁵	123	0				
+773	shn	right	kʰwaː¹	124	0				
+774	shn	to walk	te¹ wa⁴	127	3				
+775	shn	to swim	waːj³	130	1				
+776	shn	dirty	wuj⁴	267	3				
+777	shn	belly (abdomen)	tɔŋ⁵	132	0				
+778	shn	intestine/guts	sʰaj³	134	0				
+779	shn	shoulder	maː²	135	0				
+780	shn	to fear	ko¹	137	2				
+781	shn	head	ho¹	138	0				
+782	shn	to breathe	tʰoj³ ʦaɯ	140	1				
+783	shn	to vomit	haːk³	141	0				
+784	shn	to spit (saliva)	tʰom²	143	0a				
+785	shn	to spit (something out of the mouth)	kʰaːj⁴	144	0				
+786	shn	to chew	kew⁵	145	0				
+787	shn	to boil	tom³	146	0				
+788	shn	to yawn	haːw¹	147	0				
+789	shn	to sleep, to lie down	nɔn⁴	148	0				
+790	shn	to dream	pʰan¹	149	0				
+791	shn	to sit	naŋ³	150	0				
+792	shn	human being	kon⁴	151	0				
+793	shn	man	saːj⁴	152	0				
+794	shn	woman	jiŋ⁴	153	0a				
+795	shn	husband	pʰo¹	154	0				
+796	shn	wife	me⁴	155	0				
+797	shn	mother	mɛ³	156	0				
+798	shn	father	pɔ³	158	0				
+799	shn	to sew	jep⁵	160	0b				
+800	shn	needle	kʰem¹	162	0				
+801	shn	to shoot	jɯ⁴	165	0				
+802	shn	to steal	lak⁵	166	0				
+803	shn	kill	kʰaː³	167	0				
+804	shn	die	taːj¹	169	0				
+805	shn	to split	pʰaː²	172	0				
+806	shn	to plant	pʰuk²	173	0b				
+807	shn	to plant	sʰɔm³	174	1				
+808	shn	to choose	lɤk³	175	0				
+809	shn	to swell	tɯŋ²	178	2				
+810	shn	to dig	tɔŋ¹	182	4				
+811	shn	to buy	sʰɯ⁵	183	0				
+812	shn	to open/uncover	pɯt²	184	1a				
+813	shn	to fly	min¹	186	0				
+814	shn	rat/rodent	nu¹	187	0				
+815	shn	grease/fat	man⁴	188	0				
+816	shn	snake	ŋu⁴	190	0a				
+817	shn	worm	nɔn¹	191	0				
+818	shn	mosquito	juŋ⁴	192	0				
+819	shn	spider	koŋ² kaːw¹	193	0a				
+820	shn	fish	paː¹	195	0				
+821	shn	rotten	naw³	196	0				
+822	shn	branch	kiŋ²	197	0				
+823	shn	flower	mɔk²	198	0				
+824	shn	fruit	maːk²	199	0				
+825	shn	grass	jaː³	201	0				
+826	shn	to flow	laj¹	202	0				
+827	shn	sky	pʰaː⁵	205	0				
+828	shn	moon	lɤn¹	206	0b				
+829	shn	cloud	pʰaː³	208	0				
+830	shn	fog	mɔk² kum³ 	211	0				
+831	shn	warm	ʔun²	212	0				
+832	shn	dry	hɛŋ³	213	0				
+833	shn	wet	jam⁴	215	2				
+834	shn	to burn (transitive)	pʰaw¹	216	0				
+835	shn	white	kʰaːw¹	219	0				
+836	shn	yellow	lɤŋ¹	220	0				
+837	shn	green	kʰew¹	221	0				
+838	shn	short (in stature)	tuk⁵	223	2				
+839	shn	short (in length)	pɔt⁴	227	3				
+840	shn	thin	maːŋ¹	228	0				
+841	shn	narrow	kɛp³	229	0				
+842	shn	ill/sick	kʰaj³	269	0				
+843	shn	ashamed/shy	ʔaːj¹	231	0				
+844	shn	bad	ʦaː⁵	233	1				
+845	shn	day	wan⁴	236	0a				
+846	shn	year	pi¹	237	0				
+847	shn	to ascend	kʰɯn³	238	0				
+848	shn	above	nɤ¹	239	0				
+849	shn	below	taɯ³	240	0				
+850	shn	this	naj⁵	241	2				
+851	shn	that	nan⁵	242	0				
+852	shn	near	ʦam¹	243	1				
+853	shn	if	tʰaː³	247	1				
+854	shn	to count	ʔaːn²	248	1				
+855	shn	two	sʰɔŋ¹	249	0				
+856	shn	three	sʰaːm¹	250	0				
+857	shn	four	sʰi²	251	0				
+858	shn	five	haː³	252	0				
+859	shn	six	hok⁴	253	0				
+860	shn	seven	ʦet⁴	254	0				
+861	shn	eight	pɛt²	255	0				
+862	shn	nine	kaw³	256	0				
+863	shn	ten	sʰip⁴	257	0				
+864	shn	twenty/score	sʰaːw⁴	258	1				
+865	shn	hundred	paːk²	261	1				
+866	shn	thousand	heŋ¹	263	1				
+867	tha	fire	faj¹	1	0	vajA			
+868	tha	nose	camuːk²	3	1				Angkorian Khmer muḥ / Modern Khmer ច្រមុះ cramuḥ
+869	tha	to go	paj¹	1	0	pajA			
+870	tha	water	naːm⁴	6	1	namC			
+871	tha	mouth	paːk²	8	0	paːkD			
+872	tha	tongue	lin⁴	9	0	linC			
+873	tha	bone	kra²duːk²	10	0b	ɗuːkD			
+874	tha	blood	lɯət³	11	0	lɯətD			
+875	tha	root	ʔuək³	22	1				onomatopeia
+876	tha	to come	maː¹	13	0	maːA			
+877	tha	breast	nom¹	14	0	nomA			
+878	tha	rain	fon⁵	15	0	fonA			
+879	tha	name	cʰɯː³	16	0	ɟɯːB			
+880	tha	head louse	haw⁵	17	0	ʰrawA			
+881	tha	body louse	len¹	18	0a	mlenA			
+882	tha	wing	piːk²	19	0	piːkD			
+883	tha	flesh/meat	nɯːa⁴	21	0	nɯəC			
+884	tha	hand	mɯː¹	23	0	mɯːA			
+885	tha	arm	kʰɛːn⁵	271	0	qɛːnA			
+886	tha	night	kʰɯːn¹	24	0	ɣɯːnA			
+887	tha	housefly	mɛːŋ¹ wan¹	25	1	ŋwan			
+888	tha	ear	huː⁵	27	0	ʰruːA			
+889	tha	neck	kʰᴐː¹	28	0	ɣɔːA			
+890	tha	far	klaj¹	29	0	klajA			
+891	tha	to do/make	tʰam¹	31	1				Mon
+892	tha	house	baːn³	273	1	ɓaːnC			PSWT 'village'
+893	tha	stone/rock	hin⁵	33	0	ʰriːnA			
+894	tha	tooth	fan¹	35	0	vanA			
+895	tha	to speak/to say	pʰuːt³	38	4				
+896	tha	bitter	kʰom⁵	39	0	kʰomA			
+897	tha	head hair	pʰom⁵	40	0	pʰomA			
+898	tha	body hair	kʰon⁵	41	0	qonA			
+899	tha	big	jaj²	43	0	ʰɲaɯB			
+900	tha	one	nɯŋ²	44	0b	nɯŋB			
+901	tha	who?	kʰraj¹	46	1				
+902	tha	leg	kʰaː⁵	48	0	qaːA			
+903	tha	foot	tʰaːw⁴	50	1				
+904	tha	horn	kʰaw⁵	51	0	qʰawA			
+905	tha	yesterday	mɯə³ waːn¹	52	0b				
+906	tha	black	dam¹	53	0	ɗamA			
+907	tha	navel	sa²dɯː¹	54	0a				
+908	tha	to stand	jɯːn¹	56	0	ˀjɯːnA			
+909	tha	back	laŋ⁵	59	0	ʰlaŋA			
+910	tha	wind	lom¹	60	0	lomA			
+911	tha	smoke	kʰwan¹	61	0	ɣwanA			
+912	tha	what?	ʔaraj¹	63	1				
+913	tha	which?	naj⁵	64	0	ɗaɯA			
+914	tha	child (kin term)	luːk³	65	0	luːkD			
+915	tha	egg	kʰaj²	66	0	kʰrajB			
+916	tha	new	maj²	67	0	ʰmaɯB			
+917	tha	to give	haj³	68	0	haɯC			
+918	tha	to burn (intr.)	maj³	70	0	ʰmajB			
+919	tha	good	diː¹	71	0	ɗiːA			
+920	tha	not (general/stative situation)	maj³	73	1				Contraction of mi + ɗajC
+921	tha	to know	ruː⁴	74	0	ruːC			
+922	tha	sand	saːj¹	75	0a	zaːjA			
+923	tha	knee	kʰaw²	76	0	qawB			
+924	tha	to laugh	huə⁵ rᴐʔ⁴	77	0	qruəA			
+925	tha	to hear	daːj³ jin¹	78	0c	ŋinA			
+926	tha	soil	din¹	79	0	ɗinA			
+927	tha	leaf	baj¹	80	0	ɓaɯA			
+928	tha	red	dɛːŋ¹	81	0				
+929	tha	liver	tap²	82	0				
+930	tha	skin/hide	naŋ⁵	83	0				
+931	tha	to suck	duːt²	85	0a				
+932	tha	heavy	nak²	86	0				
+933	tha	ant	mot⁴	87	0				
+934	tha	to take	ʔaw¹	88	0				
+935	tha	old (animate)	kɛː²	90	0				
+936	tha	to eat	kin¹	91	0a				
+937	tha	old (inanimate)	kaw²	92	0				
+938	tha	thick	naː⁵	93	0				
+939	tha	long (shape)	jaːw¹	95	1				
+940	tha	wood/tree	maːj⁴	96	0b				
+941	tha	to run	wiŋ³	98	1				
+942	tha	to fall	tok²	99	0				
+943	tha	eye	taː¹	100	0				
+944	tha	tail	haːŋ⁵	101	0				
+945	tha	ash	tʰaw³	102	0				
+946	tha	dog	maː⁵	103	0				
+947	tha	to weep/to cry	rᴐːŋ⁴ haːj³	104	1				
+948	tha	to see	hen⁵	105	0b				
+949	tha	sweet	waːn⁵	106	0				
+950	tha	rope	cʰɯək³	107	0				
+951	tha	bird	nok⁴	108	0				
+952	tha	salt	klɯə¹	109	0				
+953	tha	small (size)	lek⁴	114	4				
+954	tha	shadow	ŋaw¹	115	0				
+955	tha	shade	rom³	116	0				
+956	tha	cold	naːw⁵	118	0				
+957	tha	wide	kwaːŋ³	120	0				
+958	tha	star	daːw¹	121	0				
+959	tha	in	naj¹	264	0				
+960	tha	hard	kʰɛŋ⁵	122	0a				
+961	tha	left	saːj⁴	123	0				
+962	tha	right	kʰwaː⁵	124	0				
+963	tha	to walk	dɤːn¹	128	2				
+964	tha	to swim	waːj³	130	1				
+965	tha	dirty	sok²ka²prok²	266	2a				
+966	tha	belly (abdomen)	tʰᴐːŋ⁴	132	0				
+967	tha	intestine/guts	saj³	134	0				
+968	tha	shoulder	baː²	135	0				
+969	tha	to fear	kluə¹	137	2				
+970	tha	head	huə⁵	138	0				
+971	tha	to breathe	haːj⁵caj¹	139	0b				
+972	tha	to vomit	ʔuək³	142	1				
+973	tha	to spit (saliva)	tʰom²	143	0a				
+974	tha	to spit (something out of the mouth)	kʰaːj¹	144	0				
+975	tha	to chew	kʰiəw⁴	145	0				
+976	tha	to boil	tom³	146	0				
+977	tha	to yawn	haːw⁵	147	0				
+978	tha	to sleep, to lie down	nᴐːn¹	148	0				
+979	tha	to dream	fan⁵	149	0				
+980	tha	to sit	naŋ³	150	0				
+981	tha	human being	kʰon¹	151	0				
+982	tha	man	cʰaːj¹	152	0				
+983	tha	woman	jiŋ⁵	153	0b				
+984	tha	husband	pʰuə⁵	154	0				
+985	tha	wife	miə¹	155	0				
+986	tha	mother	mɛː³	156	0				
+987	tha	father	pʰᴐː³	158	0				
+988	tha	to sew	jep⁴	160	0b				
+989	tha	needle	kʰem⁵	162	0				
+990	tha	to shoot	jiŋ¹	164	1b				
+991	tha	to steal	lak⁴	166	0				
+992	tha	kill	kʰaː³	167	0				
+993	tha	die	taːj¹	169	0				
+994	tha	be alive/to live	pen¹	171	1				
+995	tha	to split	pʰaː²	172	0				
+996	tha	to plant	pluːk²	173	0a				
+997	tha	to choose	lɯək³	175	0				
+998	tha	to swell	buəm¹	177	1				
+999	tha	to dig	kʰut²	181	1				
+1000	tha	to buy	sɯː⁴	183	0				
+1001	tha	to open/uncover	pɤːt²	184	1b				
+1002	tha	to fly	bin¹	186	0				
+1003	tha	rat/rodent	nuː⁵	187	0				
+1004	tha	grease/fat	man¹	188	0				
+1005	tha	snake	ŋuː¹	190	0a				
+1006	tha	worm	nᴐːn¹	191	0				
+1007	tha	mosquito	juŋ¹	192	0				
+1008	tha	spider	mɛːŋ¹mum¹	194	1				
+1009	tha	fish	plaː¹	195	0				
+1010	tha	rotten	naw³	196	0				
+1011	tha	branch	kiŋ²	197	0				
+1012	tha	flower	dᴐːk²	198	0				
+1013	tha	fruit	pʰon⁵	200	1				
+1014	tha	grass	jaː³	201	0				
+1015	tha	to flow	din¹	202	0				
+1016	tha	sky	faː⁴	205	0				
+1017	tha	moon	pʰraʔ⁴can¹	207	1				
+1018	tha	cloud	meːk³	209	2				Sanskrit mēgha
+1019	tha	fog	mᴐːk²	211	0				
+1020	tha	warm	ʔun²	212	0				
+1021	tha	dry	hɛːŋ³	213	0				
+1022	tha	wet	piək²	214	1				
+1023	tha	to burn (transitive)	pʰaw⁵	216	0				
+1024	tha	white	kʰaːw⁵	219	0				
+1025	tha	yellow	lɯəŋ⁵	220	0				
+1026	tha	green	kʰiəw⁵	221	0				
+1027	tha	short (in stature)	tiə³	224	1				
+1028	tha	short (in length)	san³	226	2				
+1029	tha	thin	baːŋ¹	228	0				
+1030	tha	narrow	kʰɛːp³	229	0				
+1031	tha	ill/sick	puəj²	268	0				
+1032	tha	ashamed/shy	ʔaːj¹	231	0				
+1033	tha	bad	raːj⁴	232	0				
+1034	tha	true	ciŋ¹	235	1				
+1035	tha	day	wan¹	236	0a				
+1036	tha	year	piː¹	237	0				
+1037	tha	to ascend	kʰɯn³	238	0				
+1038	tha	above	nɯə⁵	239	0				
+1039	tha	below	taːj³	240	0				
+1040	tha	this	niː⁴	241	1				
+1041	tha	that	nan⁴	242	0				
+1042	tha	near	klaj³	244	0				
+1043	tha	if	tʰaː³	247	1				
+1044	tha	to count	nap⁴	272	2				
+1045	tha	two	sᴐːŋ⁵	249	0				
+1046	tha	three	saːm⁵	250	0				
+1047	tha	four	siː²	251	0				
+1048	tha	five	haː³	252	0				
+1049	tha	six	hok²	253	0				
+1050	tha	seven	cet²	254	0				
+1051	tha	eight	pɛːt²	255	0				
+1052	tha	nine	kaw³	256	0				
+1053	tha	ten	sip²	257	0				
+1054	tha	twenty/score	jiː³sip²	259	2				
+1055	tha	hundred	rᴐːj⁴	260	0				
+1056	tha	thousand	pʰan¹	262	2				
+1057	lao	fire	faj⁶	1	0	vajA			
+1058	lao	nose	daŋ²	2	0	ɗaŋA			
+1059	lao	to go	paj²	4	0	pajA			
+1060	lao	water	nam⁵	6	0	namC			
+1061	lao	mouth	paːk²	8	0	paːkD			
+1062	lao	tongue	lin⁵	9	0	linC			
+1063	lao	bone	duːk²	10	0	ɗuːkD			
+1064	lao	blood	lɯət⁵	11	0	lɯətD			
+1065	lao	root	haːk⁵	12	0	raːkD			
+1066	lao	to come	maː⁶	13	0	maːA			
+1067	lao	breast	nom⁶	14	0	nomA			
+1068	lao	rain	fon¹	15	0	fonA			
+1069	lao	name	sɯ³	16	0	ɟɯːB			
+1070	lao	head louse	haw¹	17	0	ʰrawA			
+1071	lao	body louse	len⁶	18	0a	mlenA			
+1072	lao	wing	piːk²	19	0	piːkD			
+1073	lao	flesh/meat	nɯə⁵	21	0	nɯəC			
+1074	lao	hand	mɯː⁶	23	0	mɯːA			
+1075	lao	arm	kʰɛːn¹	271	0	qɛːnA			
+1076	lao	night	kʰɯːn⁶	24	0	ɣɯːnA			
+1077	lao	housefly	mɛːŋ⁶ wan⁶	25	1	ŋwan			
+1078	lao	ear	huː¹	27	0	ʰruːA			
+1079	lao	neck	kʰɔː⁶	28	0	ɣɔːA			
+1080	lao	far	kaj²	29	0	klajA			
+1081	lao	to do/make	het³	30	0d				
+1082	lao	house	hɯən⁶	32	0	rɯənA			
+1083	lao	stone/rock	hin¹	33	0	ʰriːnA			
+1084	lao	tooth	kʰɛːw⁴	34	1b	qʰiəwC			PSWT 'canine tooth'
+1085	lao	to speak/to say	waw⁵	37	2	wawC			
+1086	lao	bitter	kʰom¹	39	0	kʰomA			
+1087	lao	head hair	pʰom¹ 	40	0	pʰomA			
+1088	lao	body hair	kʰon¹ 	41	0	qonA			
+1089	lao	big	ɲaj³	43	0	ʰɲaɯB			
+1090	lao	one	nɯŋ³ 	44	0	nɯŋB			
+1091	lao	who?	pʰaj¹ 	45	0	pʰaɯA			
+1092	lao	leg	kʰaː¹	48	0	qaːA			
+1093	lao	foot	tiːn²	49	0	tiːnA			
+1094	lao	horn	kʰaw¹	51	0	qʰawA			
+1095	lao	yesterday	waːn⁶	52	0b				
+1096	lao	black	dam²	53	0	ɗamA			
+1097	lao	navel	dɯː²	54	0a				
+1098	lao	to stand	jɯːn²	56	0	ˀjɯːnA			
+1099	lao	back	laŋ¹	59	0	ʰlaŋA			
+1100	lao	wind	lom⁶	60	0	lomA			
+1101	lao	smoke	kʰwan⁶	61	0	ɣwanA			
+1102	lao	what?	ɲaŋ¹	62	0b				
+1103	lao	which?	daj¹	64	0	ɗaɯA			
+1104	lao	child (kin term)	luːk⁵	65	0	luːkD			
+1105	lao	egg	kʰaj³	66	0	kʰrajB			
+1106	lao	new	maj³	67	0	ʰmaɯB			
+1107	lao	to give	haj⁴	68	0	haɯC			
+1108	lao	to burn (intr.)	maj⁴	70	0	ʰmajB			
+1109	lao	good	diː²	71	0	ɗiːA			
+1110	lao	not (general/stative situation)	bɔː³	72	0c	ɓawB			
+1111	lao	to know	huː⁵	74	0	ruːC			
+1112	lao	sand	saːj⁶	75	0a	zaːjA			
+1113	lao	knee	kʰaw³	76	0	qawB			
+1114	lao	to laugh	huə¹	77	0	qruəA			
+1115	lao	to hear	ɲin⁶	78	0b	ŋinA			
+1116	lao	soil	din²	79	0	ɗinA			
+1117	lao	leaf	baj²	80	0	ɓaɯA			
+1118	lao	red	dɛːŋ²	81	0				
+1119	lao	liver	tap¹	82	0				
+1120	lao	skin/hide	naŋ¹	83	0				
+1121	lao	to suck	duːt²	85	0a				
+1122	lao	heavy	nak¹	86	0				
+1123	lao	ant	mot³	87	0				
+1124	lao	to take	ʔaw²	88	0				
+1125	lao	old (animate)	kɛː²	90	0				
+1126	lao	to eat	kin²	91	0a				
+1127	lao	old (inanimate)	kaw³	92	0				
+1128	lao	thick	naː ¹	93	0				
+1129	lao	long (shape)	jaːw⁶	95	1				
+1130	lao	wood/tree	maj⁵	96	0a				
+1131	lao	to run	lɛːn³	97	0a				
+1132	lao	to fall	tok¹	99	0				
+1133	lao	eye	taː²	100	0				
+1134	lao	tail	haːŋ¹	101	0				
+1135	lao	ash	tʰaw³	102	0				
+1136	lao	dog	maː¹	103	0				
+1137	lao	to weep/to cry	haj⁴	104	0				
+1138	lao	to see	hen¹	105	0b				
+1139	lao	sweet	waːn¹	106	0				
+1140	lao	rope	sɯək⁵	107	0				
+1141	lao	bird	nok³	108	0				
+1142	lao	salt	kɯə²	109	0				
+1143	lao	small (size)	nɔːj⁵	110	0				
+1144	lao	shade	hom³	116	0				
+1145	lao	shadow	ŋaw⁶	115	0				
+1146	lao	cold	naːw¹	118	0				
+1147	lao	wide	kuəŋ⁵	120	0				
+1148	lao	star	daːw²	121	0				
+1149	lao	in	naj⁶	264	0				
+1150	lao	hard	kʰɛːŋ¹	122	0				
+1151	lao	left	saːj⁵	123	0				
+1152	lao	right	kʰuə¹	124	0				
+1153	lao	to walk	ɲaːŋ⁵	125	1				
+1154	lao	to swim	waːj⁴	130	1				
+1155	lao	dirty	sok² ka² pok²	266	2c				
+1156	lao	belly (abdomen)	tʰɔːŋ⁵	132	0				
+1157	lao	intestine/guts	saj⁴	134	0				Patterson(1995)
+1158	lao	shoulder	baː³	135	0				
+1159	lao	to fear	jaːn⁵	136	1				
+1160	lao	head	huə¹	138	0				
+1161	lao	to breathe	haːj¹caj²	139	0b				Patterson(1995)
+1162	lao	to vomit	haːk⁵	141	0				
+1163	lao	to spit (saliva)	tʰom³	143	0a				Patterson(1995)
+1164	lao	to spit (something out of the mouth)	kʰaːj⁶	144	0				Patterson(1995)
+1165	lao	to chew	kʰiəw⁵	145	0				Patterson(1995)
+1166	lao	to boil	tom⁵	146	0				
+1167	lao	to yawn	haːu¹	147	0				Patterson(1995)
+1168	lao	to sleep, to lie down	nɔːn⁶	148	0				
+1169	lao	to dream	fan¹	149	0				
+1170	lao	to sit	naŋ³	150	0				
+1171	lao	human being	kʰon⁶	151	0				
+1172	lao	man	saːj⁶	152	0				
+1173	lao	woman	ɲiŋ⁶	153	0a				
+1174	lao	husband	pʰuə¹	154	0				
+1175	lao	wife	miə⁶	155	0				
+1176	lao	mother	mɛː³	156	0				
+1177	lao	father	pʰɔː³	158	0				
+1178	lao	to sew	ɲip¹ 	160	0a				
+1179	lao	needle	kʰem¹	162	0				
+1180	lao	to shoot	ɲiŋ⁶	164	1b				Patterson(1995)
+1181	lao	kill	kʰaː⁴	167	0				
+1182	lao	die	taːj²	169	0				
+1183	lao	be alive/to live	pen²	171	1				
+1184	lao	to split	pʰaː³	172	0				
+1185	lao	to plant	puːk²	173	0a				
+1186	lao	to choose	lɯək³	175	0				Patterson(1995)
+1187	lao	to swell	buəm²	177	1				
+1188	lao	to dig	kʰut¹	181	1				
+1189	lao	to buy	sɯː⁴	183	0				
+1190	lao	to open/uncover	pɯːt²	184	1a				
+1191	lao	to fly	bin²	186	0				
+1192	lao	rat/rodent	nuː¹	187	0				
+1193	lao	grease/fat	man⁶	188	0				
+1194	lao	snake	ŋuː⁶	190	0a				
+1195	lao	worm	nɔːn¹	191	0				
+1196	lao	mosquito	ɲuːŋ⁶	192	0				
+1197	lao	spider	mum⁶	194	1				Patterson(1995)
+1198	lao	fish	paː²	195	0				
+1199	lao	rotten	naw³	196	0				
+1200	lao	branch	kiŋ³	197	0				
+1201	lao	flower	dɔːk²	198	0				
+1202	lao	fruit	maːk²	199	0				
+1203	lao	grass	ɲaː⁴	201	0				
+1204	lao	to flow	laj¹	202	0				
+1205	lao	sky	faː⁵	205	0				
+1206	lao	moon	dɯən² 	206	0a				
+1207	lao	cloud	faː⁴	208	0				
+1208	lao	fog	mɔːk²	211	0				
+1209	lao	warm	ʔun³	212	0				
+1210	lao	dry	hɛːŋ⁴	213	0				
+1211	lao	wet	piək²	214	1				
+1212	lao	to burn (transitive)	pʰaw¹	216	0				
+1213	lao	white	kʰaː w¹ 	219	0				
+1214	lao	yellow	lɯəŋ¹	220	0				
+1215	lao	green	kʰiəw¹	221	0				
+1216	lao	short (in stature)	tam³	222	0				
+1217	lao	short (in length)	san⁴	226	2				
+1218	lao	thin	baːŋ²	228	0				
+1219	lao	narrow	kʰɛːp⁵	229	0				
+1220	lao	ill/sick	kʰaj⁵	269	0				
+1221	lao	ashamed/shy	ʔaːj²	231	0				
+1222	lao	bad	haːj⁵	232	0				
+1223	lao	true	ciŋ²	235	1				
+1224	lao	day	wen⁶ 	236	0b				
+1225	lao	year	piː²	237	0				
+1226	lao	to ascend	kʰɯn⁴	238	0				
+1227	lao	in	naj²	264	0				
+1228	lao	above	nɯə¹	239	0				
+1229	lao	below	taj⁵	240	0				
+1230	lao	this	niː ⁴	241	1				
+1231	lao	that	nan⁵	242	0				
+1232	lao	near	kaj⁵	244	0				
+1233	lao	far	kaj²	29	0	klajA			
+1234	lao	if	tʰaː⁴	247	1				
+1235	lao	to count	nap³	272	2				
+1236	lao	two	sɔːŋ¹	249	0				
+1237	lao	three	saːm¹	250	0				
+1238	lao	four	siː³	251	0				
+1239	lao	five	haː⁴	252	0				
+1240	lao	six	hok¹	253	0				
+1241	lao	seven	cet¹	254	0				
+1242	lao	eight	pɛːt²	255	0				
+1243	lao	nine	kaw⁵	256	0				
+1244	lao	ten	sip¹	257	0				
+1245	lao	twenty/score	saːw⁶	258	1				
+1246	lao	hundred	hɔːj⁵	260	0				
+1247	lao	thousand	pʰan⁶	262	2				
+1248	blt1	fire	faj⁴	1	0	vajA			
+1249	blt1	nose	daŋ¹	2	0	ɗaŋA			
+1250	blt1	to go	paj¹	4	0	pajA			
+1251	blt1	water	nam⁶	6	0	namC			
+1252	blt1	mouth	sop²	7	1	sopD			PSWT 'lip'
+1253	blt1	tongue	lin⁶	9	0	linC			
+1254	blt1	blood	lɯət⁵	11	0	lɯətD			
+1255	blt1	root	haʔ⁵	12	0	raːkD			
+1256	blt1	to come	ma⁴	13	0	maːA			
+1257	blt1	breast	nom⁴	14	0	nomA			
+1258	blt1	rain	fon¹	15	0	fonA			
+1259	blt1	name	cɯ⁵	16	0	ɟɯːB			
+1260	blt1	head louse	haw¹	17	0	ʰrawA			
+1261	blt1	wing	piʔ²	19	0	piːkD			
+1262	blt1	hand	mɯ⁴	23	0	mɯːA			
+1263	blt1	arm	khɛn¹	271	0	qɛːnA			
+1264	blt1	night	kɯn⁴	24	0	ɣɯːnA			
+1265	blt1	housefly	mɛŋ⁴ ŋwan⁴	25	1	ŋwanA			
+1266	blt1	ear	hu¹	27	0	ʰruːA			
+1267	blt1	neck	kɔ⁴	28	0	ɣɔːA			
+1268	blt1	far	kaj¹	29	0	klajA			
+1269	blt1	to do/make	ʔet⁵	30	0b				
+1270	blt1	house	hɯən⁴	32	0	rɯənA			
+1271	blt1	stone/rock	hin¹	33	0	ʰriːnA			
+1272	blt1	tooth	khɛw³	34	1a	qʰiəwC			PSWT 'canine tooth'
+1273	blt1	to speak/to say	paʔ²	8	1	paːkD			PSWT 'mouth'
+1274	blt1	bitter	kʰom¹	39	0	kʰomA			
+1275	blt1	head hair	pʰom¹	40	0	pʰomA			
+1276	blt1	body hair	khon¹	41	0	qonA			
+1277	blt1	big	ɲaɯ²	43	0	ʰɲaɯB			
+1278	blt1	who?	pʰaɯ¹	45	0	pʰaɯA			
+1279	blt1	leg	kʰaː¹	48	0	qaːA			
+1280	blt1	foot	tin¹	49	0	tiːnA			
+1281	blt1	horn	kʰaw¹	51	0	qʰawA			
+1282	blt1	yesterday	ŋwaː⁴	52	0a				
+1283	blt1	black	dam¹	53	0	ɗamA			
+1284	blt1	navel	bɯ¹	54	0a				
+1285	blt1	to stand	jɯn¹	56	0	ˀjɯːnA			
+1286	blt1	back	laŋ¹	59	0	ʰlaŋA			
+1287	blt1	wind	lom⁴	60	0	lomA			
+1288	blt1	smoke	kwan⁴	61	0	ɣwanA			
+1289	blt1	which?	daɯ¹	64	0	ɗaɯA			
+1290	blt1	child (kin term)	luʔ⁵	65	0	luːkD			
+1291	blt1	egg	saj²⁵	66	0	kʰrajB			
+1292	blt1	new	maɯ²	67	0	ʰmaɯB			
+1293	blt1	to give	haɯ³	68	0	haɯC			
+1294	blt1	to burn (intr.)	maj³	70	0	ʰmajB			
+1295	blt1	good	di¹	71	0	ɗiːA			
+1296	blt1	to know	hu⁶	74	0	ruːC			
+1297	blt1	sand	saːj⁴	75	0a	zaːjA			
+1298	blt1	knee	khaw²	76	0	qawB			
+1299	blt1	to laugh	huə¹	77	0	qruəA			
+1300	blt1	leaf	baɯ¹	80	0	ɓaɯA			
+1301	blt1	red	dɛŋ¹	81	0				
+1302	blt1	liver	tap²	82	0				
+1303	blt1	skin/hide	naŋ¹	83	0				
+1304	blt1	to suck	cup²	84	1				PSWT 'to kiss'
+1305	blt1	heavy	nak²	86	0				
+1306	blt1	to take	ʔaw¹	88	0				
+1307	blt1	old (animate)	tʰaw³	89	1				PSWT 'senior'
+1308	blt1	to eat	kin¹	91	0a				
+1309	blt1	old (inanimate)	kaw²	92	0				
+1310	blt1	thick	naː¹	93	0				
+1311	blt1	long (shape)	hi⁴	94	0				
+1312	blt1	wood/tree	maj⁶	96	0a				
+1313	blt1	to run	lɛn⁵	97	0a				
+1314	blt1	to fall	tok²	99	0				
+1315	blt1	eye	ta¹	100	0				
+1316	blt1	tail	haːŋ¹	101	0				
+1317	blt1	ash	taw⁵	102	0				
+1318	blt1	dog	ma¹	103	0				
+1319	blt1	to weep/to cry	haj³	104	0				
+1320	blt1	to see	hen¹	105	0b				
+1321	blt1	sweet	vaːn¹	106	0				
+1322	blt1	rope	cɯəʔ⁵	107	0				
+1323	blt1	bird	nok⁵	108	0				
+1324	blt1	salt	kɯə¹	109	0				
+1325	blt1	shadow	ŋaw⁴	115	0				
+1326	blt1	cold	jen¹	117	1				PSWT 'cool'
+1327	blt1	wide	kwaːŋ³	120	0				
+1328	blt1	star	daːw¹	121	0				
+1329	blt1	hard	khɛŋ¹	122	0				
+1330	blt1	left	saːj⁶	123	0				
+1331	blt1	right	khwaː¹	124	0				
+1332	blt1	to walk	ɲaːŋ⁵	125	1				
+1333	blt1	to swim	lɔj⁴	129	0				
+1334	blt1	dirty	ʔuəj²	265	1				
+1335	blt1	belly (abdomen)	pum¹	131	1				
+1336	blt1	shoulder	baː²	135	0				
+1337	blt1	to fear	jaːn³	136	1				
+1338	blt1	head	huə¹	138	0				
+1339	blt1	to breathe	haː¹ caɯ¹	139	0a				
+1340	blt1	to vomit	haʔ⁵	141	0				
+1341	blt1	to spit (saliva)	thom²	143	0a				
+1342	blt1	to spit (something out of the mouth)	kaːj⁴	144	0				
+1343	blt1	to chew	kɛw⁶	145	0				
+1344	blt1	to boil	tom³	146	0				
+1345	blt1	to yawn	haːw¹	147	0				
+1346	blt1	to sleep, to lie down	nɔn⁴	148	0				
+1347	blt1	to sit	naŋ⁵	150	0				
+1348	blt1	human being	kon⁴	151	0				
+1349	blt1	man	caːj⁴	152	0				
+1350	blt1	woman	ɲiŋ⁴	153	0a				
+1351	blt1	husband	phuə¹	154	0				
+1352	blt1	wife	miə⁴	155	0				
+1353	blt1	mother	mɛ⁵	156	0				
+1354	blt1	father	ʔaːj³	157	1				
+1355	blt1	to sew	ɲip⁵	160	0a				
+1356	blt1	needle	khem¹	162	0				
+1357	blt1	to steal	lak⁵	166	0				
+1358	blt1	kill	khaː³	167	0				
+1359	blt1	die	taːj¹	169	0				
+1360	blt1	be alive/to live	ɲaŋ⁴	170	0				
+1361	blt1	to split	phaː²	172	0				
+1362	blt1	to choose	lɯəʔ⁵	175	0				
+1363	blt1	to swell	kaɯ⁵	176	0				
+1364	blt1	to dig	kuət⁵	180	3				
+1365	blt1	to buy	sɯ⁶	183	0				
+1366	blt1	to open/uncover	pɯt²	184	1a				
+1367	blt1	to fly	bin¹	186	0				
+1368	blt1	rat/rodent	nu¹	187	0				
+1369	blt1	grease/fat	man⁴	188	0				
+1370	blt1	snake	ŋu⁴	190	0a				
+1371	blt1	worm	nɔn¹	191	0				
+1372	blt1	mosquito	ɲuŋ⁴	192	0				
+1373	blt1	fish	paː¹	195	0				
+1374	blt1	rotten	naw⁵	196	0				
+1375	blt1	branch	kiŋ²	197	0				
+1376	blt1	flower	bɔʔ²	198	0				
+1377	blt1	fruit	maʔ⁵	199	0				
+1378	blt1	grass	ɲaː³	201	0				
+1379	blt1	to flow	laj¹	202	0				
+1380	blt1	sky	faː⁶	205	0				
+1381	blt1	moon	bɯən¹	206	0a				
+1382	blt1	fog	moʔ²	211	0				
+1383	blt1	warm	ʔun²	212	0				
+1384	blt1	dry	hɛn³	213	0				
+1385	blt1	wet	piəʔ²	214	1				
+1386	blt1	to burn (transitive)	phaw¹	216	0				
+1387	blt1	white	dɔn²	218	1				
+1388	blt1	yellow	lɯəŋ¹	220	0				
+1389	blt1	green	khɛw¹	221	0				
+1390	blt1	short (in stature)	tam²	222	0				
+1391	blt1	short (in length)	ten³	225	1				
+1392	blt1	thin	baaŋ¹	228	0				
+1393	blt1	narrow	kɛp⁵	229	0				
+1394	blt1	ill/sick	puəj²	268	1				
+1395	blt1	ashamed/shy	ʔaːj¹	231	0				
+1396	blt1	true	tɛ⁶	234	0				
+1397	blt1	day	wen⁴	236	0b				
+1398	blt1	year	pi¹	237	0				
+1399	blt1	to ascend	khɯn³	238	0				
+1400	blt1	above	nɯə¹	239	0				
+1401	blt1	below	taɯ³	240	0				
+1402	blt1	that	nan³²	242	0				
+1403	blt1	near	cam¹	243	1				
+1404	blt1	to count	nap⁵	272	2				
+1405	blt1	two	sɔŋ¹	249	0				
+1406	blt1	three	saːm¹	250	0				
+1407	blt1	four	si²	251	0				
+1408	blt1	five	haː³	252	0				
+1409	blt1	six	hok²	253	0				
+1410	blt1	seven	cet²	254	0				
+1411	blt1	eight	pɛt²	255	0				
+1412	blt1	nine	kaw³	256	0				
+1413	blt1	ten	sip²	257	0				
+1414	blt1	twenty/score	saːw⁴	258	1				
+1415	blt2	fire	faj⁴	1	0	vajA			
+1416	blt2	nose	laŋ¹	2	0	ɗaŋA			
+1417	blt2	to go	paj¹	4	0	pajA			
+1418	blt2	water	nam⁶	6	0	namC			
+1419	blt2	mouth	sop²	7	1	sopD			PSWT 'lip'
+1420	blt2	tongue	lin⁶	9	0	linC			
+1421	blt2	bone	luʔ²	10	0	ɗuːkD			
+1422	blt2	blood	lɯət⁵	11	0	lɯətD			
+1423	blt2	root	haʔ⁵	12	0	raːkD			
+1424	blt2	to come	ma⁴	13	0	maːA			
+1425	blt2	breast	nom⁴	14	0	nomA			
+1426	blt2	rain	fon¹	15	0	fonA			
+1427	blt2	name	cɯ⁵	16	0	ɟɯːB			
+1428	blt2	head louse	haw¹	17	0	ʰrawA			
+1429	blt2	wing	piʔ²	19	0	piːkD			
+1430	blt2	flesh/meat	ɲɯə²	20	1	ʰɲɯəB			PSWT 'bait'
+1431	blt2	hand	mɯ⁴	23	0	mɯːA			
+1432	blt2	arm	khɛn¹	271	0	qɛːnA			
+1433	blt2	night	kɯn⁴	24	0	ɣɯːnA			
+1434	blt2	housefly	mɛŋ⁴ ŋwan⁴	25	1	ŋwan			
+1435	blt2	ear	hu¹	27	0	ʰruːA			
+1436	blt2	neck	kɔ⁴	28	0	ɣɔːA			
+1437	blt2	to do/make	zet⁵	30	0a				
+1438	blt2	house	hɯən⁴	32	0	rɯənA			
+1439	blt2	stone/rock	hin¹	33	0	ʰriːnA			
+1440	blt2	to speak/to say	paʔ²	8	1	paːkD			PSWT 'mouth'
+1441	blt2	bitter	kʰom¹	39	0	kʰomA			
+1442	blt2	head hair	fom¹	40	0	pʰomA			
+1443	blt2	body hair	khon¹	41	0	qonA			
+1444	blt2	big	ɲaɯ²	43	0	ʰɲaɯB			
+1445	blt2	who?	faɯ¹	45	0	pʰaɯA			
+1446	blt2	leg	kʰaː¹	48	0	qaːA			
+1447	blt2	foot	tin¹	49	0	tiːnA			
+1448	blt2	horn	kʰaw¹	51	0	qʰawA			
+1449	blt2	yesterday	ŋwaː⁴	52	0a				
+1450	blt2	black	dam¹	53	0	ɗamA			
+1451	blt2	navel	bɯ¹	54	0a				
+1452	blt2	to stand	zɯn¹	56	0	ˀjɯːnA			
+1453	blt2	back	laŋ¹	59	0	ʰlaŋA			
+1454	blt2	wind	lom⁴	60	0	lomA			
+1455	blt2	smoke	kwan⁴	61	0	ɣwanA			
+1456	blt2	which?	daɯ¹	64	0	ɗaɯA			
+1457	blt2	child (kin term)	luʔ⁵	65	0	luːkD			
+1458	blt2	egg	saj²⁵	66	0	kʰrajB			
+1459	blt2	new	maɯ²	67	0	ʰmaɯB			
+1460	blt2	to give	haɯ³	68	0	haɯC			
+1461	blt2	to burn (intr.)	maj³	70	0	ʰmajB			
+1462	blt2	good	di¹	71	0	ɗiːA			
+1463	blt2	to know	hu⁶	74	0	ruːC			
+1464	blt2	sand	saːj⁴	75	0a	zaːjA			
+1465	blt2	knee	khaw²	76	0	qawB			
+1466	blt2	to laugh	huə¹	77	0	qruəA			
+1467	blt2	soil	din¹	79	0	ɗinA			
+1468	blt2	leaf	baɯ¹	80	0	ɓaɯA			
+1469	blt2	red	dɛŋ¹	81	0				
+1470	blt2	liver	tap²	82	0				
+1471	blt2	skin/hide	naŋ¹	83	0				
+1472	blt2	to suck	cup²	84	1				PSWT 'to kiss'
+1473	blt2	heavy	nak²	86	0				
+1474	blt2	ant	mot⁵	87	0				
+1475	blt2	to take	ʔaw¹	88	0				
+1476	blt2	old (animate)	tʰaw³	89	1				PSWT 'senior'
+1477	blt2	to eat	kin¹	91	0a				
+1478	blt2	old (inanimate)	kaw²	92	0				
+1479	blt2	thick	naː¹	93	0				
+1480	blt2	long (shape)	hi⁴	94	0				
+1481	blt2	wood/tree	maj⁶	96	0a				
+1482	blt2	to run	dɛn⁵	97	0b				
+1483	blt2	to fall	tok²	99	0				
+1484	blt2	eye	ta¹	100	0				
+1485	blt2	tail	haːŋ¹	101	0				
+1486	blt2	ash	taw⁵	102	0				
+1487	blt2	dog	ma¹	103	0				
+1488	blt2	to weep/to cry	haj³	104	0				
+1489	blt2	to see	hen¹	105	0b				
+1490	blt2	sweet	baːn¹	106	0				
+1491	blt2	rope	cɯəʔ⁵	107	0				
+1492	blt2	bird	nok⁵	108	0				
+1493	blt2	salt	kɯə¹	109	0				
+1494	blt2	cold	zen¹	117	1				PSWT 'cool'
+1495	blt2	wide	kwaːŋ³	120	0				
+1496	blt2	star	laːw¹	121	0				
+1497	blt2	hard	khɛŋ¹	122	0				
+1498	blt2	left	saːj⁶	123	0				
+1499	blt2	right	khwaː¹	124	0				
+1500	blt2	to walk	ɲaːŋ⁵	125	1				
+1501	blt2	to swim	lɔj⁴	129	0				
+1502	blt2	dirty	ʔuəj²	265	1				
+1503	blt2	belly (abdomen)	pum¹	131	1				
+1504	blt2	shoulder	baː²	135	0				
+1505	blt2	to fear	zaːn³	136	1				
+1506	blt2	head	huə¹	138	0				
+1507	blt2	to breathe	haː¹ caɯ¹	139	0a				
+1508	blt2	to vomit	haʔ⁵	141	0				
+1509	blt2	to spit (saliva)	thom²	143	0a				
+1510	blt2	to spit (something out of the mouth)	kaːj⁴	144	0				
+1511	blt2	to chew	kɛw⁶	145	0				
+1512	blt2	to boil	tom¹¹	146	0				
+1513	blt2	to yawn	haːw¹	147	0				
+1514	blt2	to sleep, to lie down	nɔn⁴	148	0				
+1515	blt2	to dream	fan¹	149	0				
+1516	blt2	to sit	naŋ⁵	150	0				
+1517	blt2	human being	kon⁴	151	0				
+1518	blt2	man	caːj⁴	152	0				
+1519	blt2	woman	ɲiŋ⁴	153	0a				
+1520	blt2	husband	fuə¹	154	0				
+1521	blt2	wife	miə⁴	155	0				
+1522	blt2	mother	mɛ⁵	156	0				
+1523	blt2	father	ʔaːj³	157	1				
+1524	blt2	to sew	ɲip⁵	160	0a				
+1525	blt2	needle	khem¹	162	0				
+1526	blt2	to shoot	bɛn²	163	2				
+1527	blt2	to steal	lak⁵	166	0				
+1528	blt2	kill	khaː³	167	0				
+1529	blt2	die	taːj¹	169	0				
+1530	blt2	be alive/to live	ɲaŋ⁴	170	0				
+1531	blt2	to split	faː²	172	0				
+1532	blt2	to plant	puʔ²	173	0a				
+1533	blt2	to choose	lɯəʔ⁵	175	0				
+1534	blt2	to swell	kaɯ⁵	176	0				
+1535	blt2	to dig	kuət⁵	180	3				
+1536	blt2	to buy	sɯ⁶	183	0				
+1537	blt2	to open/uncover	pɯt²	184	1a				
+1538	blt2	to fly	bin¹	186	0				
+1539	blt2	rat/rodent	nu¹	187	0				
+1540	blt2	grease/fat	man⁴	188	0				
+1541	blt2	snake	ŋu⁴	190	0a				
+1542	blt2	worm	nɔn¹	191	0				
+1543	blt2	mosquito	ɲuŋ⁴	192	0				
+1544	blt2	spider	siŋ² saːw¹	193	0b				
+1545	blt2	fish	paː¹	195	0				
+1546	blt2	rotten	naw⁵	196	0				
+1547	blt2	branch	kiŋ²	197	0				
+1548	blt2	flower	bɔʔ²	198	0				
+1549	blt2	fruit	maʔ⁵	199	0				
+1550	blt2	grass	ɲaː³	201	0				
+1551	blt2	to flow	laj¹	202	0				
+1552	blt2	sky	faː⁶	205	0				
+1553	blt2	moon	bɯən¹	206	0a				
+1554	blt2	fog	moʔ²	211	0				
+1555	blt2	dry	hɛŋ³	213	0				
+1556	blt2	wet	piəʔ²	214	1				
+1557	blt2	to burn (transitive)	faw¹	216	0				
+1558	blt2	white	lɔn²	218	1				
+1559	blt2	yellow	lɯəŋ¹	220	0				
+1560	blt2	green	khɛw¹	221	0				
+1561	blt2	short (in stature)	tam²	222	0				
+1562	blt2	short (in length)	ten³	225	1				
+1563	blt2	thin	baaŋ¹	228	0				
+1564	blt2	narrow	kɛp⁵	229	0				
+1565	blt2	ill/sick	puəj²	268	1				
+1566	blt2	ashamed/shy	ʔaːj¹	231	0				
+1567	blt2	true	tɛ⁶	234	0				
+1568	blt2	day	wen⁴	236	0b				
+1569	blt2	year	pi¹	237	0				
+1570	blt2	to ascend	khɯn³	238	0				
+1571	blt2	above	nɯə¹	239	0				
+1572	blt2	below	taɯ³	240	0				
+1573	blt2	near	cam¹	243	1				
+1574	blt2	if	baː¹	246	2				
+1575	blt2	to count	nap⁵	272	2				
+1576	blt2	three	saːm¹	250	0				
+1577	blt2	four	si²	251	0				
+1578	blt2	five	haː³	252	0				
+1579	blt2	six	hok²	253	0				
+1580	blt2	seven	cet²	254	0				
+1581	blt2	eight	pɛt²	255	0				
+1582	blt2	nine	kaw³	256	0				
+1583	blt2	ten	sip²	257	0				
+1584	blt2	twenty/score	saːw⁴	258	1				
+1585	sou	fire	faj³	1	0	vajA			
+1586	sou	nose	muːk⁵	3	1				Angkorian Khmer muḥ / Modern Khmer ច្រមុះ cramuḥ
+1587	sou	to go	paj²	4	0	pajA			
+1588	sou	water	naːm⁷	6	0	namC			
+1589	sou	mouth	paːk⁶	8	0	paːkD			
+1590	sou	tongue	lin⁷	9	0	linC			
+1591	sou	bone	doːk⁶	10	0	ɗuːkD			
+1592	sou	blood	lɯət⁴	11	0	lɯətD			
+1593	sou	root	ʔuək⁶	22	1				onomatopeia
+1594	sou	to come	maː³	13	0	maːA			
+1595	sou	breast	nom⁷	14	0	nomA			
+1596	sou	rain	fon¹	15	0	fonA			
+1597	sou	name	cʰɤː⁴	16	0	ɟɯːB			
+1598	sou	head louse	haw¹	17	0	ʰrawA			
+1599	sou	wing	piːk⁶	19	0	piːkD			
+1600	sou	flesh/meat	nɯə⁷	21	0	nɯəC			
+1601	sou	hand	mɯː³	23	0	mɯːA			
+1602	sou	arm	kʰɛːn¹	271	0	qɛːnA			
+1603	sou	night	kʰɯːn³	24	0	ɣɯːnA			
+1604	sou	housefly	mɛːŋɜ wan³	25	1	ŋwan			
+1605	sou	ear	huː¹	27	0	ʰruːA			
+1606	sou	neck	kʰɔː³	28	0	ɣɔːA			
+1607	sou	far	klaj²	29	0	klajA			
+1608	sou	to do/make	tʰam³	31	1				Mon
+1609	sou	house	rɯən³	32	0	rɯənA			
+1610	sou	stone/rock	hiːn¹	33	0	ʰriːnA			
+1611	sou	tooth	fan³	35	0	vanA			PSWT 'canine tooth'
+1612	sou	to speak/to say	lɛːŋ¹	36	3				Khmer แถลง
+1613	sou	bitter	kʰom¹	39	0	kʰomA			
+1614	sou	head hair	pʰom¹	40	0	pʰomA			
+1615	sou	body hair	kʰon¹	41	0	qonA			
+1616	sou	big	jaj¹	43	0	ʰɲaɯB			
+1617	sou	one	nɤːŋ¹	44	0b	nɯŋB			
+1618	sou	who?	kʰraj³	46	1	pʰaɯA			
+1619	sou	leg	kʰaː¹	48	0	qaːA			
+1620	sou	foot	tiːn²	49	0	tiːnA			
+1621	sou	horn	kʰaw¹	51	0	qʰawA			
+1622	sou	yesterday	rɛk⁷ waː³	52	0a				
+1623	sou	black	dam²	53	0	ɗamA			
+1624	sou	navel	dɯː²	54	0a				
+1625	sou	to stand	jɯːn²	56	0	ˀjɯːnA			
+1626	sou	back	laŋ¹	59	0	ʰlaŋA			
+1627	sou	wind	lom³	60	0	lomA			
+1628	sou	smoke	kʰwanɜ	61	0	ɣwanA			
+1629	sou	what?	aj² raj¹	63	1				
+1630	sou	which?	naj¹	64	0	ɗaɯA			
+1631	sou	child (kin term)	loːk⁴	65	0	luːkD			
+1632	sou	egg	kʰaj¹	66	0	kʰrajB			
+1633	sou	new	maj¹	67	0	ʰmaɯB			
+1634	sou	to give	haj⁵	68	0	haɯC			
+1635	sou	to burn (intr.)	maj⁵	70	0	ʰmajB			
+1636	sou	good	diː²	71	0	ɗiːA			
+1637	sou	not (general/stative situation)	maj⁴	73	1				Contraction of mi + ɗajC
+1638	sou	to know	roː⁷	74	0	ruːC			
+1639	sou	sand	saːj³	75	0a	zaːjA			
+1640	sou	knee	kʰaw¹	76	0	qawB			
+1641	sou	to laugh	huə¹	77	0	qruəA			
+1642	sou	to hear	daj⁶ jin³	78	0c	ŋinA			
+1643	sou	soil	din²	79	0	ɗinA			
+1644	sou	leaf	baj²	80	0	ɓaɯA			
+1645	sou	red	dɛːŋ²	81	0				
+1646	sou	liver	tap²	82	0				
+1647	sou	skin/hide	naŋ¹	83	0				
+1648	sou	to suck	duːt⁶	85	0a				
+1649	sou	heavy	nak¹	86	0				
+1650	sou	ant	mɔt⁷	87	0				
+1651	sou	to take	ʔaw²	88	0				
+1652	sou	old (animate)	tʰaw⁴	89	1				PSWT 'senior'
+1653	sou	to eat	kin²	91	0a				
+1654	sou	old (inanimate)	kaw²	92	0				
+1655	sou	thick	naː¹	93	0				
+1656	sou	long (shape)	jaːw³	95	1				
+1657	sou	wood/tree	maːj⁷	96	0a				
+1658	sou	to run	lɛn⁴	97	0a				
+1659	sou	to fall	tɔk²	99	0				
+1660	sou	eye	taː²	100	0				
+1661	sou	tail	haːŋ¹	101	0				
+1662	sou	ash	tʰaːw⁵	102	0				
+1663	sou	dog	maː¹	103	0				
+1664	sou	to weep/to cry	rɔːŋ⁷ haj⁵	104	1				
+1665	sou	to see	hen¹	105	0b				
+1666	sou	sweet	waːn¹	106	0				
+1667	sou	rope	cʰiək⁴	107	0				
+1668	sou	bird	nɔk⁷	108	0				
+1669	sou	salt	klɯə²	109	0				
+1670	sou	small (size)	ʔiət⁶	112	3				
+1671	sou	shade	rɔm⁴	116	0				
+1672	sou	shadow	ŋaw⁴	115	0				
+1673	sou	cold	jen²	117	1				PSWT 'cool'
+1674	sou	wide	kwaŋ⁶	120	0				
+1675	sou	star	daːw²	121	0				
+1676	sou	in	naj³	264	0				
+1677	sou	hard	kʰɛːŋ¹	122	0				
+1678	sou	left	saːj⁷	123	0				
+1679	sou	right	kʰwaː¹	124	0				
+1680	sou	to walk	dɤːn²	128	2				
+1681	sou	to swim	waːj⁴	130	1				
+1682	sou	dirty	sɔk¹ krok⁴	266	2b				
+1683	sou	belly (abdomen)	pʰuŋ³	133	2				
+1684	sou	intestine/guts	saːj⁵	134	0				
+1685	sou	shoulder	baː²	135	0				
+1686	sou	to fear	kluə²	137	2				
+1687	sou	head	huə¹	138	0				
+1688	sou	to breathe	haːj¹ caj²	139	0b				
+1689	sou	to vomit	ʔuək⁶	142	1				
+1690	sou	to spit (something out of the mouth)	kʰaːj³	144	0				
+1691	sou	to chew	kʰiəw⁷	145	0				
+1692	sou	to boil	tɔm⁶	146	0				
+1693	sou	to yawn	haːw¹	147	0				
+1694	sou	to sleep, to lie down	nɔːn³	148	0				
+1695	sou	to dream	fan¹	149	0				
+1696	sou	to sit	naŋ⁴	150	0				
+1697	sou	human being	kʰon³	151	0				
+1698	sou	man	cʰaːj³	152	0				
+1699	sou	woman	jiŋ¹	153	0b				
+1700	sou	husband	pʰuə¹	154	0				
+1701	sou	wife	miə³	155	0				
+1702	sou	mother	mɛː⁴	156	0				
+1703	sou	father	pʰɔː⁴	158	0				
+1704	sou	to sew	jɛp⁷	160	0b				
+1705	sou	needle	kʰem¹	162	0				
+1706	sou	to shoot	jiŋ³	164	1b				
+1707	sou	to steal	lak⁷	166	0				
+1708	sou	kill	kʰaː⁵	167	0				
+1709	sou	die	taːj²	169	0				
+1710	sou	be alive/to live	jaŋ³	170	0				
+1711	sou	to split	pʰaː¹	172	0				
+1712	sou	to plant	ploːk⁶	173	0a				
+1713	sou	to choose	lɯək⁴	175	0				
+1714	sou	to swell	buəm²	176	1				
+1715	sou	to dig	kʰut¹	181	1				
+1716	sou	to buy	sɤː⁷	183	0				
+1717	sou	to open/uncover	pɤːt⁶	184	1b				
+1718	sou	to fly	bin²	186	0				
+1719	sou	rat/rodent	nuː¹	187	0				
+1720	sou	grease/fat	man³	188	0				
+1721	sou	snake	ŋuː³	190	0a				
+1722	sou	worm	nɔːn¹	191	0				
+1723	sou	mosquito	juŋ³	192	0				
+1724	sou	spider	mɛːŋ³ mum³	194	1				
+1725	sou	fish	plaː²	195	0				
+1726	sou	rotten	naːw⁴	196	0				
+1727	sou	flower	dɔːk⁶	198	0				
+1728	sou	fruit	pʰon¹	200	1				
+1729	sou	grass	jaː⁵	201	0				
+1730	sou	to flow	laj¹	202	0				
+1731	sou	sky	faː⁷	205	0				
+1732	sou	moon	can²	207	1				
+1733	sou	cloud	meːk⁴	209	2				Sanskrit mēgha
+1734	sou	fog	mɔːk⁵	211	0				
+1735	sou	warm	ʔun²	212	0				
+1736	sou	dry	hɛːŋ⁵	213	0				
+1737	sou	wet	piək⁶	214	1				
+1738	sou	to burn (transitive)	pʰaw¹	216	0				
+1739	sou	white	kʰaːw¹	219	0				
+1740	sou	yellow	lɯəŋ¹	220	0				
+1741	sou	green	kʰiəw¹	221	0				
+1742	sou	short (in stature)	tiə⁶	224	1				
+1743	sou	short (in length)	san⁵	226	2				
+1744	sou	thin	baːŋ²	228	0				
+1745	sou	narrow	kʰɛːp⁴	229	0				
+1746	sou	ill/sick	cɛp²	270	2				PSWT "to be in pain'
+1747	sou	ashamed/shy	ʔaːj²	231	0				
+1748	sou	bad	raːj⁷	232	0				
+1749	sou	true	ciŋ²	235	1				
+1750	sou	day	wan³	236	0a				
+1751	sou	year	piː²	237	0				
+1752	sou	to ascend	kʰɯn⁵	238	0				
+1753	sou	in	naj³	264	0				
+1754	sou	above	nɯə¹	239	0				
+1755	sou	below	taːj⁶	240	0				
+1756	sou	this	niː⁴	241	1				
+1757	sou	that	nan⁴	242	0				
+1758	sou	near	klaj⁶	244	0				
+1759	sou	far	klaj²	29	0	klajA			
+1760	sou	if	tʰaː⁵	247	1				
+1761	sou	to count	nap⁷	272	2				
+1762	sou	two	sɔːŋ¹	249	0				
+1763	sou	three	saːm¹	250	0				
+1764	sou	four	seː¹	251	0				
+1765	sou	five	haː⁵	252	0				
+1766	sou	six	hɔk¹	253	0				
+1767	sou	seven	cɛt²	254	0				
+1768	sou	eight	pɛːt⁶	255	0				
+1769	sou	nine	kaːw⁶	256	0				
+1770	sou	ten	sip¹	257	0				
+1771	sou	twenty/score	jiː⁴ sip¹	259	2				
+1772	sou	hundred	rɔːj⁷	260	0				
+1773	sou	thousand	pʰan³	262	2				
+1774	blt2	tooth	kʰiəw³	34	1c	qʰiəwC			
