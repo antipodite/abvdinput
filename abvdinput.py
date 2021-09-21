@@ -12,9 +12,6 @@ NAME = "Isaac Stead"
 EMAIL = "isaac_stead@eva.mpg.de"
 AUTHOR = "Dr. Pittayawat Pittayaporn (Joe)"
 
-# Load classification spreadsheet
-DATA = pandas.read_csv("~/Projects/abvdinput/SWTclassification.tsv", sep="\t")
-
 def levenshtein_distance(s1, s2):
     if len(s1) > len(s2):
         s1, s2 = s2, s1
@@ -54,6 +51,7 @@ def fill_language(driver, data, glottolog, lang_code):
         iso_code = lang_code
         dialect_n = ""
 
+    # Why is pyglottolog so SLOW when looking up by isocodes? 100% of one CPU core for 2 min
     languoid = glottolog.languoid(iso_code)
 
     # Fill in the language fields
@@ -86,7 +84,7 @@ def fill_language(driver, data, glottolog, lang_code):
         dfrow = data.query("DOCULECT == '{}' and CONCEPT == '{}'".format(lang_code, concept.lower()))
 
         # Sometimes there are two different entries for the same concept in a doculect... fuck
-        # Fill out the fields
+        # Fill out the fields, putting dups in same field as discussed with Mary
         if not dfrow.empty:
             items = ", ".join([s for s in dfrow["IPA"].tolist()])
             notes = [s for s in dfrow["NOTE"].tolist() if not isnull(s)]
@@ -101,7 +99,8 @@ def fill_language(driver, data, glottolog, lang_code):
 
     maybe_matches = {}
     for con in missed:
-        close_matches = get_close_matches(con, data_concepts, cutoff=0.6)
+        # Suggest similar concept glosses for ones we couldn't match
+        close_matches = get_close_matches(con, data_concepts, cutoff=0.7)
         substring_matches = [s for s in data_concepts if con in s]
         maybe_matches[con] = set(close_matches + substring_matches)
         
