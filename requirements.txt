@@ -1,0 +1,4 @@
+pandas==1.2.5
+cldfbench==1.7.2
+pyglottolog==3.6.0
+selenium==3.141.0
