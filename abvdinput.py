@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+import sys
 import string
 import pandas
 
@@ -113,10 +115,13 @@ def fill_language(driver, data, glottolog, lang_code):
         len(missed)
     ))
 
-        
-if __name__ == "__main__":
+def run(isocode):
     driver = webdriver.Firefox()
     data = pandas.read_csv("~/Projects/abvdinput/SWTclassification.tsv", sep="\t")
     glottolog = Glottolog(catalogs.Glottolog.default_location())
 
-    fill_language(driver, data, glottolog, "tdd1")
+    fill_language(driver, data, glottolog, isocode)
+
+        
+if __name__ == "__main__":
+    run(sys.argv[1])
