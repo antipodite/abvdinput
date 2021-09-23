@@ -103,7 +103,7 @@ def fill_language(driver, data, glottolog, lang_code):
     for con in missed:
         # Suggest similar concept glosses for ones we couldn't match
         close_matches = get_close_matches(con, data_concepts, cutoff=0.7)
-        substring_matches = [s for s in data_concepts if con in s]
+        substring_matches = [s for s in data_concepts if con in s or s in con]
         maybe_matches[con] = set(close_matches + substring_matches)
         
     for con, mats in maybe_matches.items():
